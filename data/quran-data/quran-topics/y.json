@@ -1,0 +1,111 @@
+[
+  {
+    "id": 18930,
+    "topic": "Ya‘qub(as)",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Jacob",
+    "sub_topics": []
+  },
+  {
+    "id": 18931,
+    "topic": "Ya‘uq, Yaguth",
+    "sub_topic": "",
+    "chapter": 71,
+    "verse_start": 24,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 18929,
+    "topic": "Yahya(as)",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See John",
+    "sub_topics": []
+  },
+  {
+    "id": 18932,
+    "topic": "Yathrib",
+    "sub_topic": "",
+    "chapter": 33,
+    "verse_start": 14,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 18949,
+    "topic": "Yaum",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Day of…",
+    "sub_topics": []
+  },
+  {
+    "id": 18933,
+    "topic": "Yaumud-Din",
+    "sub_topic": "Day of Judgment",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Day of Requital",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "7:188, 15:36, 26:83, 33:64, 37:21, 38:79, 51:13, 56:57, 70:27, 74:47, 78:2-3, 79:43, 82:16, 82:18-19, 83:12"
+      }
+    ]
+  },
+  {
+    "id": 18950,
+    "topic": "Youth",
+    "sub_topic": "-Ghilman",
+    "chapter": 52,
+    "verse_start": 25,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Children: Ghulam",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "12:31, 12:37, 12:63, 18:11, 18:14, 18:61-63, 21:61, 76:20"
+      }
+    ]
+  },
+  {
+    "id": 18959,
+    "topic": "Yunus(as)",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Jonah",
+    "sub_topics": []
+  },
+  {
+    "id": 18960,
+    "topic": "Yusuf(as)",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Joseph",
+    "sub_topics": []
+  }
+]

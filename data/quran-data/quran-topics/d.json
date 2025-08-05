@@ -1,0 +1,1690 @@
+[
+  {
+    "id": 5747,
+    "topic": "Da‘wah",
+    "sub_topic": "invite",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Preaching",
+    "sub_topics": []
+  },
+  {
+    "id": 5542,
+    "topic": "Dabbatul-Ard",
+    "sub_topic": "creatures, beasts",
+    "chapter": 27,
+    "verse_start": 83,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:165, 6:39, 8:23, 8:56, 11:7, 11:57, 16:50, 16:62, 22:19, 31:11, 34:15, 35:29, 35:46, 42:30, 45:5, 81:6"
+      }
+    ]
+  },
+  {
+    "id": 5559,
+    "topic": "Dajjal",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Antichrist",
+    "sub_topics": []
+  },
+  {
+    "id": 5560,
+    "topic": "Dallin",
+    "sub_topic": "astray",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:109, 2:199, 3:70, 3:91, 3:165, 4:117, 4:120, 4:137, 5:13, 5:61, 5:78, 5:106, 6:40, 6:57, 6:75, 6:78, 6:117-118, 6:126, 6:141, 6:145, 7:39, 7:61, 7:150, 7:180, 7:187, 9:37, 9:115, 10:89, 10:109, 12:9, 13:28, 13:34, 14:5, 14:28, 14:37, 15:40, 15:57, 16:26, 16:38, 16:94, 16:126, 17:16, 17:49, 17:73, 17:98, 18:18, 18:52, 18:105, 20:80, 20:86, 20:93, 22:5, 22:10, 23:107, 25:10, 25:18, 25:30, 25:35, 25:43, 26:21, 26:87, 26:92, 26:95, 26:100, 27:93, 30:30, 31:7, 33:37, 33:68, 35:9, 36:63, 37:33, 37:72, 38:27, 39:24, 39:38, 39:42, 40:35, 42:45, 45:24, 53:3, 53:31, 56:52, 60:2, 68:8, 71:28, 74:32, 83:33"
+      }
+    ]
+  },
+  {
+    "id": 5649,
+    "topic": "Dams",
+    "sub_topic": "-Al-‘Arim",
+    "chapter": 34,
+    "verse_start": 17,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5650,
+    "topic": "Daniel",
+    "sub_topic": "-Danial(as)",
+    "chapter": 18,
+    "verse_start": 84,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "21:86"
+      }
+    ]
+  },
+  {
+    "id": 5652,
+    "topic": "Dar",
+    "sub_topic": "abode, home",
+    "chapter": 22,
+    "verse_start": 41,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:85, 71:27"
+      },
+      {
+        "sub_topic": "-‘Aqibatud-Dar",
+        "reference": "28:38, 13:23"
+      },
+      {
+        "sub_topic": "-Su’ud-Dar",
+        "reference": "13:26, 40:53"
+      }
+    ]
+  },
+  {
+    "id": 5659,
+    "topic": "Darkness",
+    "sub_topic": "spiritual, -Zulumat, Lail",
+    "chapter": 2,
+    "verse_start": 18,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:20, 2:258, 5:17, 6:2, 6:40, 6:60, 6:123, 10:27, 13:17, 14:2, 14:6, 24:41, 33:44, 35:21, 57:10, 65:12, 93:3"
+      }
+    ]
+  },
+  {
+    "id": 5680,
+    "topic": "Darul-Akhirah",
+    "sub_topic": "abode of Hereafter",
+    "chapter": 2,
+    "verse_start": 95,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Afterlife",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "6:33, 7:170, 12:110, 16:31, 28:78, 28:84, 29:65, 33:30, 38:47"
+      }
+    ]
+  },
+  {
+    "id": 5690,
+    "topic": "Darul-Bawar",
+    "sub_topic": "abode of ruin",
+    "chapter": 14,
+    "verse_start": 29,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5677,
+    "topic": "Darul-Fasiqin",
+    "sub_topic": "abode of transgressors",
+    "chapter": 7,
+    "verse_start": 146,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5692,
+    "topic": "Darul-Khuld",
+    "sub_topic": "abiding home",
+    "chapter": 41,
+    "verse_start": 29,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5678,
+    "topic": "Darul-Muqamah",
+    "sub_topic": "abode of eternity",
+    "chapter": 35,
+    "verse_start": 36,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5679,
+    "topic": "Darul-Muttaqin",
+    "sub_topic": "",
+    "chapter": 16,
+    "verse_start": 31,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5693,
+    "topic": "Darul-Qarar",
+    "sub_topic": "permanent abode",
+    "chapter": 40,
+    "verse_start": 40,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5694,
+    "topic": "Darus-Salam",
+    "sub_topic": "abode of peace",
+    "chapter": 10,
+    "verse_start": 26,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "6:128"
+      }
+    ]
+  },
+  {
+    "id": 5696,
+    "topic": "Date Palms",
+    "sub_topic": "dates",
+    "chapter": 36,
+    "verse_start": 35,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:267, 6:100, 6:142, 13:5, 16:12, 16:68, 17:92, 18:33, 19:26, 23:20, 26:149, 50:10-11, 55:12, 55:69, 59:6, 80:30"
+      },
+      {
+        "sub_topic": "birth pains drove Mary to trunk of",
+        "reference": "19:24-26"
+      }
+    ]
+  },
+  {
+    "id": 5714,
+    "topic": "Date-Stone",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 96,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:54, 4:125, 35:14"
+      }
+    ]
+  },
+  {
+    "id": 5718,
+    "topic": "Daughters",
+    "sub_topic": "",
+    "chapter": 11,
+    "verse_start": 79,
+    "verse_end": 80,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:12, 15:72, 24:32, 28:28, 33:60, 42:50, 66:13"
+      },
+      {
+        "sub_topic": "attribute to Allah",
+        "reference": "6:101, 16:58, 37:150-154, 43:17, 52:40"
+      },
+      {
+        "sub_topic": "marriage with",
+        "reference": "4:24, 4:4, 33:51"
+      }
+    ]
+  },
+  {
+    "id": 5734,
+    "topic": "David",
+    "sub_topic": "-Dawud(as)",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "attempted murder of",
+        "reference": "38:22-25"
+      },
+      {
+        "sub_topic": "favours of God on",
+        "reference": "2:252, 4:164, 6:85, 17:56, 21:79-81, 27:16-17, 34:11-12, 38:18-27, 38:31"
+      },
+      {
+        "sub_topic": "Israelites and",
+        "reference": "5:79, 17:6"
+      }
+    ]
+  },
+  {
+    "id": 5748,
+    "topic": "Dawn",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 188,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "6:97, 54:35, 74:35, 81:19, 89:2, 97:6, 100:4"
+      },
+      {
+        "sub_topic": "privacy at",
+        "reference": "24:59"
+      },
+      {
+        "sub_topic": "remember Allah at",
+        "reference": "17:79, 3:18, 3:42, 51:19, 113:2"
+      }
+    ]
+  },
+  {
+    "id": 5762,
+    "topic": "Day",
+    "sub_topic": "measure of",
+    "chapter": 22,
+    "verse_start": 48,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "32:6, 70:5"
+      }
+    ]
+  },
+  {
+    "id": 5766,
+    "topic": "Day of Appointed Time",
+    "sub_topic": "-Yaumul-Waqt",
+    "chapter": 15,
+    "verse_start": 39,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "38:82, 56:51"
+      }
+    ]
+  },
+  {
+    "id": 5765,
+    "topic": "Day of Call for Help",
+    "sub_topic": "-Yaumut-Tanad",
+    "chapter": 40,
+    "verse_start": 33,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5784,
+    "topic": "Day of coming forth from Graves",
+    "sub_topic": "-Yaumul-Khuruj",
+    "chapter": 50,
+    "verse_start": 43,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5769,
+    "topic": "Day of Decision",
+    "sub_topic": "-Yaumul-Fasl",
+    "chapter": 44,
+    "verse_start": 41,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "37:22, 77:14-15, 77:39, 78:18"
+      }
+    ]
+  },
+  {
+    "id": 5777,
+    "topic": "Day of Distinction",
+    "sub_topic": "-Yaumul-Furqan",
+    "chapter": 8,
+    "verse_start": 42,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5778,
+    "topic": "Day of Distress",
+    "sub_topic": "-Yaumul-‘Asib",
+    "chapter": 11,
+    "verse_start": 78,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5775,
+    "topic": "Day of Eternity",
+    "sub_topic": "-Yaumul-Khuld",
+    "chapter": 50,
+    "verse_start": 35,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5779,
+    "topic": "Day of Festival",
+    "sub_topic": "-Yaumuz-Zinah",
+    "chapter": 20,
+    "verse_start": 60,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5780,
+    "topic": "Day of Gathering",
+    "sub_topic": "-Yaumul-Jam‘",
+    "chapter": 64,
+    "verse_start": 10,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "11:104, 42:8"
+      }
+    ]
+  },
+  {
+    "id": 5783,
+    "topic": "Day of Gloom",
+    "sub_topic": "-Yaumuz-Zullah",
+    "chapter": 26,
+    "verse_start": 190,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5792,
+    "topic": "Day of Harvest",
+    "sub_topic": "-Yaumul-Hasad",
+    "chapter": 6,
+    "verse_start": 142,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5788,
+    "topic": "Day of Hunayn",
+    "sub_topic": "-Yaumu Hunain",
+    "chapter": 9,
+    "verse_start": 25,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5789,
+    "topic": "Day of Hunger",
+    "sub_topic": "-Yaumo Dhi-Masghabah",
+    "chapter": 90,
+    "verse_start": 15,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5793,
+    "topic": "Day of Meeting",
+    "sub_topic": "-Yaumut-Talaq",
+    "chapter": 40,
+    "verse_start": 16,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5776,
+    "topic": "Day of People",
+    "sub_topic": "-Yaumul-Ahzab",
+    "chapter": 40,
+    "verse_start": 31,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5791,
+    "topic": "Day of Pilgrimmage",
+    "sub_topic": "-Yaumul-Hajj",
+    "chapter": 9,
+    "verse_start": 3,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5799,
+    "topic": "Day of Promise",
+    "sub_topic": "-Yaumul-Wa‘id",
+    "chapter": 50,
+    "verse_start": 21,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6068,
+    "topic": "Day of Realization",
+    "sub_topic": "-Yaumut-Taghabun",
+    "chapter": 64,
+    "verse_start": 10,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5803,
+    "topic": "Day of Reckoning",
+    "sub_topic": "-Yaumul-Hisab",
+    "chapter": 38,
+    "verse_start": 17,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "14:42, 38:27, 38:54, 39:25, 39:60, 40:28, 46:21, 58:19, 78:4, 80:37, 83:6, 111:4"
+      }
+    ]
+  },
+  {
+    "id": 5816,
+    "topic": "Day of Requital",
+    "sub_topic": "Resurrection, -Yaumul-Qiyamah, Yaumud-Din, Yaumul-Akhirah, Yaumul-Ba‘th",
+    "chapter": 37,
+    "verse_start": 21,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "1:4, 2:9, 2:49, 2:86, 2:114, 2:127, 3:78, 3:115, 4:40, 4:142, 5:70, 6:13, 9:18, 11:27, 14:32, 14:43, 15:36, 23:102, 24:3, 24:38, 25:27, 26:83, 26:88, 29:37, 30:57, 33:22, 38:80, 43:66, 44:17, 50:45, 51:13, 60:4, 70:9, 74:9-10, 75:2-3, 82:17-18, 83:11-12, 86:10"
+      },
+      {
+        "sub_topic": "-Iblis seeks respite until",
+        "reference": "17:63-64"
+      },
+      {
+        "sub_topic": "belief in",
+        "reference": "70:27, 2:5, 2:178, 2:233, 3:115, 4:60, 4:137, 4:163, 5:70, 12:38, 18:106, 21:50, 27:4, 31:5, 74:44-47, 83:12"
+      },
+      {
+        "sub_topic": "believers on the",
+        "reference": "39:74, 2:213, 19:73, 19:86, 23:103, 26:91, 43:36, 43:68, 44:52, 50:32, 101:7-8"
+      },
+      {
+        "sub_topic": "enmity until",
+        "reference": "5:65, 5:15"
+      },
+      {
+        "sub_topic": "face of believers on",
+        "reference": "3:107, 10:27, 75:23, 88:9-10"
+      },
+      {
+        "sub_topic": "face of disbelievers on the",
+        "reference": "67:28, 3:107, 10:28, 14:49, 14:51, 21:40, 21:105, 23:105, 25:26, 27:89, 36:52, 39:61, 39:68, 39:69, 50:45, 52:11, 54:8, 55:38, 56:6-7, 69:15, 69:17, 70:9-10, 73:15, 73:19, 75:9-10, 75:25, 77:10-11, 78:20-21, 80:41-42, 81:2, 81:4, 81:12, 82:2, 84:2, 84:4-5, 88:3-4, 89:22, 99:2-7, 101:5"
+      },
+      {
+        "sub_topic": "heaven and earth on",
+        "reference": "39:68, 27:88-89, 36:52, 39:69, 50:43, 50:45, 52:10-17, 75:7-12"
+      },
+      {
+        "sub_topic": "is sure to come",
+        "reference": "6:13, 6:32, 12:108, 15:86, 18:22, 20:16, 22:8, 22:56, 34:4, 40:60, 42:8, 43:67, 45:33, 47:19, 51:7, 56:3"
+      },
+      {
+        "sub_topic": "knowledge of with Allah only",
+        "reference": "79:43-45, 7:188, 31:35, 33:64, 41:48, 43:86"
+      },
+      {
+        "sub_topic": "on that day",
+        "reference": "27:88, 2:282, 3:26, 3:162, 3:186, 4:88, 6:13, 6:23, 6:74, 10:46, 10:55, 15:26, 17:14, 17:72, 18:49, 18:50, 19:69, 19:72, 19:73, 19:96, 20:109, 21:48, 22:57, 23:102, 25:27, 30:13, 30:15, 36:50, 36:51, 36:55, 39:69, 40:17, 40:18, 45:27-29, 46:20, 50:45, 52:17, 54:7-9, 56:2-12, 66:8, 70:44-45, 101:5"
+      },
+      {
+        "sub_topic": "prayer for forgiveness on",
+        "reference": "3:195, 11:48, 14:42, 26:83"
+      },
+      {
+        "sub_topic": "punished on the",
+        "reference": "22:10, 2:175, 3:78, 3:181, 5:37, 7:168, 11:61, 11:99-100, 15:36, 16:26, 16:28, 17:98, 20:101, 20:125, 25:70, 28:42, 28:62, 29:14, 29:26, 39:16, 39:25, 39:48, 39:61, 41:41, 42:46, 82:16"
+      },
+      {
+        "sub_topic": "raised on the",
+        "reference": "23:17, 45:27"
+      },
+      {
+        "sub_topic": "rejection of",
+        "reference": "4:137, 6:32, 7:46, 7:148, 11:20, 16:23, 16:61, 17:11, 23:75, 25:12, 27:5-6, 30:17, 34:9, 41:8, 83:11-12"
+      },
+      {
+        "sub_topic": "render justice on the",
+        "reference": "17:14-15, 2:114, 3:186, 4:142, 10:94, 16:125, 21:48, 22:18, 22:70, 32:26, 45:18, 60:4"
+      },
+      {
+        "sub_topic": "sinners on that day",
+        "reference": "17:98, 18:106, 19:87, 20:125, 23:104, 54:49, 55:42, 101:9-10"
+      }
+    ]
+  },
+  {
+    "id": 6067,
+    "topic": "Day of Sorrow",
+    "sub_topic": "-Yaumul-Hasrah",
+    "chapter": 19,
+    "verse_start": 40,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 5801,
+    "topic": "Day of the Quake",
+    "sub_topic": "-Yaumu Tarjuf",
+    "chapter": 73,
+    "verse_start": 15,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "79:7"
+      }
+    ]
+  },
+  {
+    "id": 6069,
+    "topic": "Day of Victory",
+    "sub_topic": "-Yaumul-Fath",
+    "chapter": 32,
+    "verse_start": 30,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6070,
+    "topic": "Day of Witnesses",
+    "sub_topic": "-Yaumun-Mashhud",
+    "chapter": 11,
+    "verse_start": 104,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "40:52"
+      }
+    ]
+  },
+  {
+    "id": 6072,
+    "topic": "Day of Your’s",
+    "sub_topic": "-Yaumukum",
+    "chapter": 32,
+    "verse_start": 15,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "39:72, 43:84, 51:61, 52:46, 70:43"
+      }
+    ]
+  },
+  {
+    "id": 6094,
+    "topic": "Dead, Death",
+    "sub_topic": "-Maut",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:57, 6:123, 14:18, 19:24, 40:12, 57:18"
+      },
+      {
+        "sub_topic": "-Tawaffa, caused,",
+        "reference": "22:6, 2:235, 2:241, 3:56, 3:194, 4:16, 4:98, 5:118, 32:12, 6:61, 6:62, 7:38, 7:127, 8:51, 10:47, 10:105, 12:102, 13:41, 16:29, 16:33, 16:71, 39:43, 40:68, 40:78, 47:28"
+      },
+      {
+        "sub_topic": "Allah alone causes",
+        "reference": "15:24, 2:29, 2:259, 3:157, 6:96, 13:17, 16:71, 22:67, 30:41, 40:12, 40:69, 45:27, 50:44, 53:45, 57:3"
+      },
+      {
+        "sub_topic": "decreed with fixed term",
+        "reference": "3:146, 39:43, 56:51"
+      },
+      {
+        "sub_topic": "every soul shall taste of",
+        "reference": "29:58, 2:97, 3:146, 3:155, 3:186, 4:79, 21:35-36, 23:16, 29:43, 31:35, 33:17, 56:61, 62:9, 80:22"
+      },
+      {
+        "sub_topic": "false gods do not create, are",
+        "reference": "16:21-22, 7:192, 13:15, 25:4, 35:14, 35:41, 46:5"
+      },
+      {
+        "sub_topic": "God restores to life",
+        "reference": "2:260-261, 2:57, 2:74, 2:244, 6:37, 8:25, 8:43, 22:7, 22:67, 26:82, 30:20, 30:25, 30:51, 36:13, 36:34, 40:12, 41:40, 42:10, 43:12, 46:34, 50:12, 75:41"
+      },
+      {
+        "sub_topic": "Jesus restored spiritually",
+        "reference": "3:50, 5:111, 6:123, 7:58, 10:32"
+      },
+      {
+        "sub_topic": "never return",
+        "reference": "21:96, 2:29, 23:100-101, 36:32, 39:59-60"
+      },
+      {
+        "sub_topic": "slain in the way of Allah are not",
+        "reference": "2:155, 3:170"
+      },
+      {
+        "sub_topic": "torment in this life",
+        "reference": "14:18"
+      },
+      {
+        "sub_topic": "will be raised again",
+        "reference": "2:29, 19:67"
+      }
+    ]
+  },
+  {
+    "id": 6078,
+    "topic": "Deaf",
+    "sub_topic": "",
+    "chapter": 18,
+    "verse_start": 58,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:19, 2:179, 5:72, 6:26, 6:40, 8:23, 11:25, 17:47, 17:98, 21:46, 25:74, 27:81, 41:45, 43:41, 47:24"
+      }
+    ]
+  },
+  {
+    "id": 6203,
+    "topic": "Death",
+    "sub_topic": "life after",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Afterlife",
+    "sub_topics": []
+  },
+  {
+    "id": 6204,
+    "topic": "Debate",
+    "sub_topic": "",
+    "chapter": 37,
+    "verse_start": 2,
+    "verse_end": 5,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:112, 3:62, 10:51, 16:126, 22:68, 25:53, 29:47, 38:70, 103:4"
+      }
+    ]
+  },
+  {
+    "id": 6214,
+    "topic": "Debt",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 281,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6215,
+    "topic": "Deceive",
+    "sub_topic": "-Gharrah, Khada‘ah",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:25, 3:197, 4:143, 6:113, 6:131, 8:63, 31:34, 40:5, 45:36, 57:15, 82:7"
+      }
+    ]
+  },
+  {
+    "id": 6227,
+    "topic": "Decree",
+    "sub_topic": "",
+    "chapter": 9,
+    "verse_start": 106,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Night of Decree",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:110, 2:118, 3:48, 3:146, 4:48, 5:2, 6:3, 8:45, 8:69, 9:118, 10:97, 11:44, 11:61, 11:74, 11:77, 11:83, 11:95, 11:102, 12:22, 13:30, 13:39, 15:5, 15:61, 16:2, 16:34, 19:22, 19:36, 19:72, 19:73, 20:119, 22:5, 27:58, 33:38-39, 34:15, 35:37, 36:39, 36:71, 39:43, 40:69, 40:79, 40:86, 41:13, 48:16, 51:10, 54:13, 57:15, 58:22, 59:4, 97:2-5"
+      }
+    ]
+  },
+  {
+    "id": 6277,
+    "topic": "Deeds",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Actions",
+    "sub_topics": []
+  },
+  {
+    "id": 6278,
+    "topic": "Defamatory speech",
+    "sub_topic": "",
+    "chapter": 4,
+    "verse_start": 149,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6279,
+    "topic": "Deism, denounced",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 104,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6280,
+    "topic": "Deities",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 109,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "43:40, 46:7"
+      }
+    ]
+  },
+  {
+    "id": 6283,
+    "topic": "Deluge",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Flood",
+    "sub_topics": []
+  },
+  {
+    "id": 6284,
+    "topic": "Delusion",
+    "sub_topic": "-Ghurur, deception",
+    "chapter": 3,
+    "verse_start": 186,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:121, 6:113, 7:23, 17:65, 31:34, 33:13, 35:6, 35:41, 57:15, 57:21, 67:21"
+      }
+    ]
+  },
+  {
+    "id": 6296,
+    "topic": "Descend",
+    "sub_topic": "-Nuzul",
+    "chapter": 57,
+    "verse_start": 26,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:58, 2:158, 6:8, 7:27, 7:161, 8:12, 10:60, 15:9, 20:81, 23:19, 27:61, 31:11, 34:3, 39:7, 40:14, 65:11-12"
+      }
+    ]
+  },
+  {
+    "id": 6313,
+    "topic": "Desert",
+    "sub_topic": "",
+    "chapter": 24,
+    "verse_start": 40,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6314,
+    "topic": "Desire",
+    "sub_topic": "(evil, low), -Hawa",
+    "chapter": 28,
+    "verse_start": 51,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:136, 7:177, 18:29, 20:17, 25:44, 38:27, 45:24, 53:3, 53:5, 79:41, 79:42"
+      }
+    ]
+  },
+  {
+    "id": 6326,
+    "topic": "Despair",
+    "sub_topic": "",
+    "chapter": 39,
+    "verse_start": 54,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:215, 5:4, 6:45, 11:10, 12:81, 12:88, 12:111, 15:56-57, 17:84, 23:78, 29:24, 30:13, 30:37, 30:50, 43:76, 60:14"
+      }
+    ]
+  },
+  {
+    "id": 6343,
+    "topic": "Destiny",
+    "sub_topic": "man, maker of his",
+    "chapter": 4,
+    "verse_start": 80,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "10:109, 17:16, 27:93, 29:7, 30:54, 39:42, 42:31, 45:16, 52:22, 53:39-43, 87:3"
+      }
+    ]
+  },
+  {
+    "id": 6355,
+    "topic": "Destiny, night of",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Night of Decree",
+    "sub_topics": []
+  },
+  {
+    "id": 5774,
+    "topic": "Destructive Day",
+    "sub_topic": "-Yaumul-Muhit",
+    "chapter": 11,
+    "verse_start": 85,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6356,
+    "topic": "Devil",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Satan",
+    "sub_topics": []
+  },
+  {
+    "id": 6357,
+    "topic": "Dhikr",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Prayers, See Remember: Allah",
+    "sub_topics": [
+      {
+        "sub_topic": "Qur’an as, reminder",
+        "reference": "38:2, 3:59, 6:91, 11:121, 15:7, 15:10, 16:45, 20:100, 21:25, 21:51, 29:52, 36:70, 37:4, 38:9, 38:50, 38:88, 41:42, 43:45, 54:26, 65:11, 68:52-53, 74:32, 77:6, 81:28"
+      }
+    ]
+  },
+  {
+    "id": 6387,
+    "topic": "Dhu Nuwas",
+    "sub_topic": "",
+    "chapter": 85,
+    "verse_start": 5,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6382,
+    "topic": "Dhul-Kifl",
+    "sub_topic": "",
+    "chapter": 21,
+    "verse_start": 86,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:260, 38:49-50"
+      }
+    ]
+  },
+  {
+    "id": 6385,
+    "topic": "Dhul-Qarnain",
+    "sub_topic": "",
+    "chapter": 18,
+    "verse_start": 84,
+    "verse_end": 99,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6386,
+    "topic": "Dhun-Nun",
+    "sub_topic": "",
+    "chapter": 21,
+    "verse_start": 88,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Jonah",
+    "sub_topics": []
+  },
+  {
+    "id": 6388,
+    "topic": "Dignity",
+    "sub_topic": "honour",
+    "chapter": 17,
+    "verse_start": 77,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:109, 2:207, 2:239, 4:140, 10:3, 12:32, 21:25, 24:2, 25:73, 33:34, 33:53-54, 36:70, 70:26"
+      }
+    ]
+  },
+  {
+    "id": 6402,
+    "topic": "Dinar",
+    "sub_topic": "",
+    "chapter": 3,
+    "verse_start": 76,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6403,
+    "topic": "Dirar",
+    "sub_topic": "mosque of",
+    "chapter": 9,
+    "verse_start": 107,
+    "verse_end": 108,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6404,
+    "topic": "Disbelief",
+    "sub_topic": "-Kufr",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 21,
+    "see": null,
+    "note": "See also Barrier, Believers: can overcome, Curse: on, Ears: of, Hell: for, Muhammad(sa): and, Parable: of a, Prayer: of, Prophecies: about, Respite: to,\r\nSpending: by",
+    "sub_topics": [
+      {
+        "sub_topic": "and Qur’an",
+        "reference": "16:104, 25:53"
+      },
+      {
+        "sub_topic": "challenge to",
+        "reference": "2:24, 8:32, 10:39, 11:13-14, 17:89, 22:16, 52:34-35"
+      },
+      {
+        "sub_topic": "deluded, misled",
+        "reference": "13:34, 2:109, 3:168, 3:178, 6:123, 6:131, 9:23"
+      },
+      {
+        "sub_topic": "Disbeliever, -Kuffar",
+        "reference": "2:35, 3:5, 3:98, 4:151-152, 5:18, 5:37, 5:38, 5:45, 5:73, 7:38, 7:51, 8:56, 9:37, 12:88, 14:3-4, 16:108, 19:72, 38:74-75, 39:33, 39:60, 40:5, 45:12, 47:35, 85:11, 85:20-21, 98:7, 109:2-7"
+      },
+      {
+        "sub_topic": "no forgiveness for",
+        "reference": "4:138, 4:169, 13:15, 32:30, 40:51, 47:35"
+      },
+      {
+        "sub_topic": "punishment of a",
+        "reference": "2:25, 2:40, 2:91, 2:105, 2:127, 2:176, 3:11, 3:23, 3:57, 3:92, 3:132, 3:142, 4:19, 4:38, 4:57, 4:141, 4:152, 4:162, 5:11, 5:87, 6:31, 6:111, 7:51, 8:15, 8:37, 9:26, 9:49, 9:68, 13:36, 14:3, 16:28, 17:9, 18:103, 18:107, 21:40, 22:20, 22:73, 29:55, 33:65-66, 34:34, 35:37, 36:64-65, 38:28, 39:33, 39:72, 41:51, 48:14, 67:7, 70:2-3, 76:5, 98:7"
+      }
+    ]
+  },
+  {
+    "id": 6505,
+    "topic": "Discord",
+    "sub_topic": "-Fitnah",
+    "chapter": 2,
+    "verse_start": 214,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:8, 3:106, 4:92, 5:42, 9:47, 9:48, 12:101, 17:54, 33:15, 51:15, 113:5"
+      }
+    ]
+  },
+  {
+    "id": 6571,
+    "topic": "Discrepancy",
+    "sub_topic": "no in the Holy Qur’an",
+    "chapter": 4,
+    "verse_start": 83,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:8, 11:68, 31:15, 33:41, 39:24"
+      }
+    ]
+  },
+  {
+    "id": 6577,
+    "topic": "Discrimination",
+    "sub_topic": "-Furqan",
+    "chapter": 25,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:54, 2:186, 3:5, 8:30, 8:42, 21:49"
+      }
+    ]
+  },
+  {
+    "id": 6584,
+    "topic": "Disease",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 11,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:220, 4:4, 5:53, 8:50, 9:125, 10:58, 20:98, 22:54, 24:51, 33:13, 33:33, 33:61, 38:42-43, 47:21, 47:30, 74:32"
+      },
+      {
+        "sub_topic": "those who are sick",
+        "reference": "26:81, 2:185-186, 2:197, 4:44, 9:91, 24:62, 48:18, 73:21"
+      }
+    ]
+  },
+  {
+    "id": 6517,
+    "topic": "Dishonesty",
+    "sub_topic": "-Khiyanah",
+    "chapter": 8,
+    "verse_start": 28,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:162, 4:106, 4:108, 8:59, 12:53, 22:39, 40:20, 66:11"
+      }
+    ]
+  },
+  {
+    "id": 6609,
+    "topic": "Disobedience",
+    "sub_topic": "-‘Isyan, Fusuq",
+    "chapter": 2,
+    "verse_start": 35,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:198, 2:283, 4:35, 5:4, 7:23, 7:125, 20:123, 23:108, 26:50, 49:8, 58:9-10"
+      }
+    ]
+  },
+  {
+    "id": 6526,
+    "topic": "Disorder",
+    "sub_topic": "-Fitnah, Fasad",
+    "chapter": 7,
+    "verse_start": 57,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Discord, Trial",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:12-13, 2:28, 2:31, 2:61, 2:192, 2:194, 2:206, 2:218, 2:221, 2:252, 3:64, 5:33-34, 5:42, 5:65, 7:75, 7:86, 7:104, 7:128, 7:143, 8:20, 8:26, 8:40, 8:74, 9:47, 9:47, 10:41, 10:82, 11:86, 11:117, 13:26, 16:89, 17:5, 18:95, 23:72, 26:153, 26:184, 27:9, 28:5, 28:78, 28:84, 30:42, 40:27, 47:23, 89:13"
+      }
+    ]
+  },
+  {
+    "id": 6621,
+    "topic": "Dispensation",
+    "sub_topic": "",
+    "chapter": 18,
+    "verse_start": 61,
+    "verse_end": 62,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:20, 3:138, 21:35, 29:15, 43:62, 95:2"
+      }
+    ]
+  },
+  {
+    "id": 6628,
+    "topic": "Display",
+    "sub_topic": "",
+    "chapter": 24,
+    "verse_start": 32,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "24:61, 33:34"
+      }
+    ]
+  },
+  {
+    "id": 6631,
+    "topic": "Dispute",
+    "sub_topic": "",
+    "chapter": 8,
+    "verse_start": 7,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:85, 2:140, 3:21, 3:62, 3:66, 3:153, 4:66, 4:106, 7:72, 8:47, 11:33, 13:14, 16:5, 18:22, 22:4, 22:9, 22:20, 22:68, 31:21, 40:5-6, 40:36, 40:48, 40:70, 42:17, 42:19, 42:36, 49:11, 53:13"
+      }
+    ]
+  },
+  {
+    "id": 6660,
+    "topic": "Dissimulation",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Taqiyyah",
+    "sub_topics": []
+  },
+  {
+    "id": 6661,
+    "topic": "Ditch, Battle of",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Trench: Battle of",
+    "sub_topics": []
+  },
+  {
+    "id": 6662,
+    "topic": "Divination",
+    "sub_topic": "-Maisir",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Arrows: Divination by",
+    "sub_topics": []
+  },
+  {
+    "id": 6663,
+    "topic": "Divinity",
+    "sub_topic": "",
+    "chapter": 10,
+    "verse_start": 35,
+    "verse_end": 37,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:3, 3:7, 3:46, 3:50, 3:60, 5:18, 5:76-77, 5:117, 6:77-79, 21:22, 43:16, 43:82"
+      }
+    ]
+  },
+  {
+    "id": 6676,
+    "topic": "Divorce",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 228,
+    "verse_end": 235,
+    "see": null,
+    "note": "See also: ‘Iddah",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:237-238, 2:242, 33:50, 65:2-8"
+      },
+      {
+        "sub_topic": "enjoined kind treatment",
+        "reference": "33:50, 2:242, 4:21-22, 65:2-3, 65:7-8"
+      },
+      {
+        "sub_topic": "hateful in the eyes of God",
+        "reference": "4:131"
+      },
+      {
+        "sub_topic": "irrevocable",
+        "reference": "2:231"
+      },
+      {
+        "sub_topic": "revocable",
+        "reference": "2:232"
+      }
+    ]
+  },
+  {
+    "id": 6689,
+    "topic": "Diyat",
+    "sub_topic": "",
+    "chapter": 4,
+    "verse_start": 93,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Qisas",
+    "sub_topics": []
+  },
+  {
+    "id": 6690,
+    "topic": "Dog",
+    "sub_topic": "-Kalb",
+    "chapter": 7,
+    "verse_start": 177,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "18:19, 18:23"
+      }
+    ]
+  },
+  {
+    "id": 6693,
+    "topic": "Donkey",
+    "sub_topic": "-Hamir",
+    "chapter": 31,
+    "verse_start": 20,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:260, 11:107, 62:6"
+      }
+    ]
+  },
+  {
+    "id": 6697,
+    "topic": "Doomsday",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Day of Resurrection",
+    "sub_topics": []
+  },
+  {
+    "id": 6698,
+    "topic": "Door",
+    "sub_topic": "-Bab",
+    "chapter": 78,
+    "verse_start": 20,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:190, 7:41, 7:162, 12:24, 12:26, 13:24-25, 15:44-45, 16:30, 23:78, 38:50-51, 39:72-73, 40:77, 43:35, 54:12, 57:14"
+      }
+    ]
+  },
+  {
+    "id": 6714,
+    "topic": "Doubt",
+    "sub_topic": "-Raib",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "17:100, 40:35, 65:5"
+      },
+      {
+        "sub_topic": "about Allah, Qur’an",
+        "reference": "2:3, 2:24, 2:148, 3:8, 3:61, 6:115, 10:38, 10:95, 10:115, 14:11, 24:51, 32:3, 38:9, 49:16"
+      },
+      {
+        "sub_topic": "about Jesus",
+        "reference": "4:158, 19:35, 43:62"
+      },
+      {
+        "sub_topic": "about resurrection",
+        "reference": "22:6-7, 3:10, 3:26, 4:88, 6:3, 6:13, 18:22, 27:67, 34:22, 40:60, 41:55, 45:27"
+      }
+    ]
+  },
+  {
+    "id": 6749,
+    "topic": "Dower-money",
+    "sub_topic": "-Mahr, Ajr",
+    "chapter": 2,
+    "verse_start": 230,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:237-238, 4:5, 4:21-22, 4:25-26, 5:6, 33:50-51, 60:11"
+      }
+    ]
+  },
+  {
+    "id": 6747,
+    "topic": "Downcast",
+    "sub_topic": "",
+    "chapter": 38,
+    "verse_start": 53,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "88:3"
+      }
+    ]
+  },
+  {
+    "id": 6757,
+    "topic": "Dream",
+    "sub_topic": "-Ru’ya’, Manam",
+    "chapter": 6,
+    "verse_start": 112,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "8:44, 12:5, 12:6, 12:37-38, 12:44-50, 12:101-102, 17:61, 21:6, 37:103, 37:106, 48:28"
+      }
+    ]
+  },
+  {
+    "id": 6769,
+    "topic": "Drinks",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 61,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:188, 2:250, 2:260, 6:71, 7:32, 9:19, 10:5, 12:42, 14:17, 15:23, 16:11, 16:67-68, 18:30, 19:27, 23:34, 25:50, 26:80, 35:13, 38:43, 38:52, 47:16, 52:20, 56:55-56, 56:69, 69:25, 72:17, 76:6, 76:18, 76:22, 77:28, 77:44, 78:25, 83:26, 88:6"
+      }
+    ]
+  },
+  {
+    "id": 6804,
+    "topic": "Drown",
+    "sub_topic": "-Gharq",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "Noah’s people",
+        "reference": "23:28, 7:65, 10:74, 11:38, 11:44, 21:78, 25:38, 26:121, 37:83, 71:26"
+      },
+      {
+        "sub_topic": "Pharaoh",
+        "reference": "2:51, 7:137, 8:55, 10:91, 17:104, 26:67, 29:41, 43:56, 44:25"
+      }
+    ]
+  },
+  {
+    "id": 6824,
+    "topic": "Du‘a’",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Prayers, Prayers of the Holy Qur’an",
+    "sub_topics": []
+  },
+  {
+    "id": 6825,
+    "topic": "Dualism",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 6826,
+    "topic": "Dust",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "bones turned into",
+        "reference": "56:48, 13:6, 23:36, 23:83, 27:68, 37:17, 37:54, 50:4"
+      },
+      {
+        "sub_topic": "mountains into",
+        "reference": "20:106-108, 56:7, 77:11"
+      }
+    ]
+  },
+  {
+    "id": 6838,
+    "topic": "Duty",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "of Angels",
+        "reference": "35:2"
+      },
+      {
+        "sub_topic": "of believers",
+        "reference": "31:15-16, 6:70, 8:73"
+      },
+      {
+        "sub_topic": "of Holy Prophet(sa)",
+        "reference": "6:105, 3:21, 4:85, 5:68, 36:18, 42:49, 62:3"
+      },
+      {
+        "sub_topic": "towards Allah",
+        "reference": "8:30, 5:101, 9:44, 59:19, 64:17, 71:4"
+      }
+    ]
+  }
+]

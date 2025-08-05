@@ -1,0 +1,162 @@
+[
+  {
+    "id": 18259,
+    "topic": "Vain",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Moral Traits",
+    "sub_topics": []
+  },
+  {
+    "id": 18260,
+    "topic": "Valley",
+    "sub_topic": "-Wadi",
+    "chapter": 14,
+    "verse_start": 38,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "9:121, 13:18, 20:13, 23:51, 26:142, 26:226, 27:19, 28:31, 37:103, 46:25, 48:25, 55:47, 79:16-17, 89:10"
+      }
+    ]
+  },
+  {
+    "id": 18275,
+    "topic": "Vegetation",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 100,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "7:59, 18:46, 20:54, 22:6, 57:21, 78:16"
+      }
+    ]
+  },
+  {
+    "id": 18282,
+    "topic": "Veil",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Purdah",
+    "sub_topics": []
+  },
+  {
+    "id": 18283,
+    "topic": "Vicegerent",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Khalifah",
+    "sub_topics": []
+  },
+  {
+    "id": 18284,
+    "topic": "Vices",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Moral Traits",
+    "sub_topics": []
+  },
+  {
+    "id": 18285,
+    "topic": "Vindication",
+    "sub_topic": "-Bara’ah",
+    "chapter": 9,
+    "verse_start": 1,
+    "verse_end": 2,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "24:12-20, 54:44"
+      }
+    ]
+  },
+  {
+    "id": 18288,
+    "topic": "Virgin",
+    "sub_topic": "",
+    "chapter": 3,
+    "verse_start": 48,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "19:21, 19:23, 24:33, 33:38, 56:37, 66:6"
+      }
+    ]
+  },
+  {
+    "id": 18295,
+    "topic": "Vision",
+    "sub_topic": "",
+    "chapter": 50,
+    "verse_start": 23,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "God’s message",
+        "reference": "42:52"
+      },
+      {
+        "sub_topic": "of ‘Umar(ra)",
+        "reference": "7:108"
+      },
+      {
+        "sub_topic": "of Abraham",
+        "reference": "2:261"
+      },
+      {
+        "sub_topic": "of Ezekiel",
+        "reference": "2:260"
+      },
+      {
+        "sub_topic": "of Holy Prophet(sa)",
+        "reference": "48:28, 8:44, 17:2, 17:61, 38:46, 48:2, 48:28, 53:14, 54:2"
+      },
+      {
+        "sub_topic": "of Ishmael",
+        "reference": "37:103"
+      },
+      {
+        "sub_topic": "of Joseph",
+        "reference": "12:5"
+      },
+      {
+        "sub_topic": "of Mary",
+        "reference": "3:48, 19:18-19, 19:22"
+      },
+      {
+        "sub_topic": "of Moses",
+        "reference": "18:61-66, 7:108, 18:72, 20:11, 27:8"
+      },
+      {
+        "sub_topic": "of mother of Mary",
+        "reference": "3:37"
+      }
+    ]
+  }
+]

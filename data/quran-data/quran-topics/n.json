@@ -1,0 +1,455 @@
+[
+  {
+    "id": 12818,
+    "topic": "Nafs",
+    "sub_topic": "self",
+    "chapter": 89,
+    "verse_start": 28,
+    "verse_end": 29,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:55, 2:73, 2:131, 3:31, 4:85, 6:94, 6:131, 12:54, 15:37, 75:3"
+      }
+    ]
+  },
+  {
+    "id": 12830,
+    "topic": "Nahr",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:250, 2:267, 16:47, 17:92, 18:34"
+      },
+      {
+        "sub_topic": "day (&amp; night)",
+        "reference": "2:165, 3:28, 21:34, 91:4, 92:3"
+      },
+      {
+        "sub_topic": "flowing streams",
+        "reference": "2:26, 3:16, 13:36, 85:12, 98:9"
+      },
+      {
+        "sub_topic": "to chide",
+        "reference": "17:24, 93:11"
+      }
+    ]
+  },
+  {
+    "id": 12848,
+    "topic": "Najm",
+    "sub_topic": "-Kaukab, star",
+    "chapter": 53,
+    "verse_start": 2,
+    "verse_end": 3,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "6:77, 6:98, 7:55, 12:5, 16:13, 16:17, 22:19, 24:36, 37:7, 41:13, 56:76, 67:6, 77:9, 81:3, 82:3, 86:2-4"
+      }
+    ]
+  },
+  {
+    "id": 12865,
+    "topic": "Najwa",
+    "sub_topic": "meetings",
+    "chapter": 58,
+    "verse_start": 8,
+    "verse_end": 11,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:115, 17:48, 20:63, 21:4, 43:81"
+      }
+    ]
+  },
+  {
+    "id": 12871,
+    "topic": "Naml",
+    "sub_topic": "",
+    "chapter": 27,
+    "verse_start": 19,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 12872,
+    "topic": "Naskh",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Abrogation",
+    "sub_topics": []
+  },
+  {
+    "id": 12873,
+    "topic": "Nations",
+    "sub_topic": "",
+    "chapter": 11,
+    "verse_start": 102,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:245, 2:262, 2:270, 3:27-28, 3:140, 7:35, 10:25, 17:17, 21:97, 21:105, 23:81, 29:21, 29:25, 31:30, 35:10, 36:69, 38:54, 83:2-6, 90:14-18, 103:2-4, 111:5-6"
+      }
+    ]
+  },
+  {
+    "id": 12895,
+    "topic": "Natiq",
+    "sub_topic": "",
+    "chapter": 23,
+    "verse_start": 63,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "27:17, 41:22, 51:24"
+      }
+    ]
+  },
+  {
+    "id": 12899,
+    "topic": "Nature",
+    "sub_topic": "",
+    "chapter": 67,
+    "verse_start": 4,
+    "verse_end": 5,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "13:4-5, 18:8"
+      }
+    ]
+  },
+  {
+    "id": 12946,
+    "topic": "Nearness to Allah",
+    "sub_topic": "-Wasal",
+    "chapter": 5,
+    "verse_start": 36,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "13:22, 17:58"
+      }
+    ]
+  },
+  {
+    "id": 12949,
+    "topic": "Nebuchadnezzar",
+    "sub_topic": "-Bukht Nasr",
+    "chapter": 2,
+    "verse_start": 260,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "17:6, 21:86, 85:5"
+      }
+    ]
+  },
+  {
+    "id": 12953,
+    "topic": "Negus",
+    "sub_topic": "-Najashi",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Abyssinia",
+    "sub_topics": []
+  },
+  {
+    "id": 12954,
+    "topic": "New Testament",
+    "sub_topic": "Gospel, -Injil",
+    "chapter": 7,
+    "verse_start": 158,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:146, 3:3-4, 5:47-48, 6:75, 9:111, 16:104, 19:17, 19:26, 48:30, 57:28, 61:7"
+      }
+    ]
+  },
+  {
+    "id": 12966,
+    "topic": "New World Order",
+    "sub_topic": "",
+    "chapter": 18,
+    "verse_start": 52,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "21:105"
+      }
+    ]
+  },
+  {
+    "id": 12902,
+    "topic": "Ni‘mat",
+    "sub_topic": "favours",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:41, 2:48, 2:123, 2:151, 2:212, 2:232, 3:104, 3:172, 3:175, 4:70, 5:4, 5:7-8, 5:12, 5:21, 5:111, 8:54, 12:7, 14:7, 14:29, 14:35, 16:19, 16:54, 16:72-73, 16:84, 16:122, 19:59, 26:23, 27:20, 28:18, 31:32, 33:10, 35:4, 37:58, 39:9, 39:50, 46:16, 48:3, 49:9, 52:30, 54:36, 68:3, 68:50, 93:12"
+      }
+    ]
+  },
+  {
+    "id": 12968,
+    "topic": "Nicknames",
+    "sub_topic": "-Tanabuz",
+    "chapter": 49,
+    "verse_start": 12,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 12969,
+    "topic": "Night",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Night of Decree, Isra’",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:52, 2:188, 7:143, 74:34, 78:11, 81:18, 84:18, 91:5, 93:3"
+      },
+      {
+        "sub_topic": "calamity, death at",
+        "reference": "7:5, 6:61, 7:98, 10:25, 10:51"
+      },
+      {
+        "sub_topic": "for prayers",
+        "reference": "73:7, 3:114, 11:115, 16:76, 17:79-80, 20:131, 21:21, 21:43, 25:65, 39:10, 41:39, 50:41, 51:18, 52:50, 73:3, 73:21, 76:27"
+      },
+      {
+        "sub_topic": "for rest",
+        "reference": "6:97, 10:68, 27:87, 28:74, 30:24, 40:62, 41:38-9"
+      },
+      {
+        "sub_topic": "Qur’an revealed at",
+        "reference": "44:4"
+      },
+      {
+        "sub_topic": "secret plotting at",
+        "reference": "13:11, 4:82, 4:109, 34:34"
+      },
+      {
+        "sub_topic": "signs of Allah",
+        "reference": "17:13, 3:28, 3:191, 6:14, 6:97, 7:5, 7:55, 7:98, 10:7, 10:68, 13:4, 14:34, 16:13, 21:34, 22:62, 23:81, 24:45, 25:63, 28:72-74, 31:30, 35:14, 36:38, 36:41, 45:6, 79:30"
+      }
+    ]
+  },
+  {
+    "id": 12829,
+    "topic": "Night Journey",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Isra’",
+    "sub_topics": []
+  },
+  {
+    "id": 13040,
+    "topic": "Night of Decree",
+    "sub_topic": "",
+    "chapter": 97,
+    "verse_start": 2,
+    "verse_end": 6,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "44:4-5"
+      }
+    ]
+  },
+  {
+    "id": 13042,
+    "topic": "Nimrod",
+    "sub_topic": "-Namrud",
+    "chapter": 2,
+    "verse_start": 259,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "21:68-70"
+      }
+    ]
+  },
+  {
+    "id": 13044,
+    "topic": "Nineveh",
+    "sub_topic": "",
+    "chapter": 10,
+    "verse_start": 99,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "30:5, 37:140-141, 46:30"
+      }
+    ]
+  },
+  {
+    "id": 13048,
+    "topic": "Nisibain",
+    "sub_topic": "Jews of",
+    "chapter": 46,
+    "verse_start": 30,
+    "verse_end": 33,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "72:2"
+      }
+    ]
+  },
+  {
+    "id": 13050,
+    "topic": "Noah",
+    "sub_topic": "-Nuh(as)",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "7:60, 11:26-27, 17:4, 23:24, 29:15, 37:80"
+      },
+      {
+        "sub_topic": "ark of",
+        "reference": "11:38-45, 23:28-30, 26:120, 54:14-15"
+      },
+      {
+        "sub_topic": "deluge of",
+        "reference": "11:41-45, 11:49, 23:28, 54:12-15, 69:12"
+      },
+      {
+        "sub_topic": "descendants of",
+        "reference": "6:85-87, 37:76-78"
+      },
+      {
+        "sub_topic": "dispensation of",
+        "reference": "29:15"
+      },
+      {
+        "sub_topic": "mocked by people",
+        "reference": "23:25-27, 7:65, 10:74, 22:43, 25:38, 26:106, 26:118, 38:13, 40:6, 50:13, 54:10, 71:22"
+      },
+      {
+        "sub_topic": "prayer of",
+        "reference": "71:27-29, 11:35-37, 11:46, 21:77, 23:27, 23:30, 26:119, 37:76-77, 54:11"
+      },
+      {
+        "sub_topic": "son of",
+        "reference": "11:46-48, 11:43-44"
+      },
+      {
+        "sub_topic": "story of",
+        "reference": "7:60-65, 3:34, 10:72-74, 11:26-49, 23:24-31, 25:38, 26:106-121, 37:76-82, 51:47, 54:10-17, 71:2-29"
+      },
+      {
+        "sub_topic": "wife of, an example",
+        "reference": "66:11"
+      }
+    ]
+  },
+  {
+    "id": 13104,
+    "topic": "Noble Recorders",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Kiraman Katibin",
+    "sub_topics": []
+  },
+  {
+    "id": 13105,
+    "topic": "Number",
+    "sub_topic": "-‘Adad",
+    "chapter": 2,
+    "verse_start": 185,
+    "verse_end": 186,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:30, 9:36-37, 9:80, 12:43, 15:45, 18:23, 23:18, 30:5, 31:28, 33:50, 65:2, 65:5, 74:31, 89:4, 97:4"
+      }
+    ]
+  },
+  {
+    "id": 13121,
+    "topic": "Nur",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Light",
+    "sub_topics": []
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "id": 14791,
+    "topic": "Qabr",
+    "sub_topic": "grave",
+    "chapter": 35,
+    "verse_start": 23,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "9:84, 22:8, 60:14, 80:22, 82:5-6, 100:10, 102:2-3"
+      }
+    ]
+  },
+  {
+    "id": 14799,
+    "topic": "Qabul",
+    "sub_topic": "accept",
+    "chapter": 3,
+    "verse_start": 91,
+    "verse_end": 92,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:49, 2:124, 2:128, 3:36, 3:38, 3:86, 5:28, 9:53, 9:54, 9:104, 14:41, 24:5-6, 40:4, 42:26, 46:17"
+      }
+    ]
+  },
+  {
+    "id": 14815,
+    "topic": "Qada’ Qadr",
+    "sub_topic": "",
+    "chapter": 54,
+    "verse_start": 50,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "Allah’s Will prevails",
+        "reference": "24:44, 3:155, 6:59, 9:51, 10:20, 11:57, 11:111, 12:42, 13:40, 15:5, 16:105, 31:35, 32:6, 33:39, 41:46, 41:48, 59:4, 64:12"
+      },
+      {
+        "sub_topic": "fixed term",
+        "reference": "34:31, 3:146, 6:3, 7:35, 10:50, 13:39, 16:62, 20:130, 23:44, 29:54, 42:15, 65:4, 72:26, 77:23"
+      },
+      {
+        "sub_topic": "free will",
+        "reference": "13:28, 3:87, 6:36, 6:126, 13:12, 13:32-33, 16:94, 16:105, 35:46, 71:5, 74:32, 76:4, 90:11"
+      },
+      {
+        "sub_topic": "recorded in book",
+        "reference": "57:23, 6:39, 10:62, 17:59, 20:53, 27:76, 34:4, 35:12, 54:53-54"
+      }
+    ]
+  },
+  {
+    "id": 14901,
+    "topic": "Qadian",
+    "sub_topic": "",
+    "chapter": 36,
+    "verse_start": 27,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 14870,
+    "topic": "Qadir",
+    "sub_topic": "powerful",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Attributes of Allah",
+    "sub_topics": [
+      {
+        "sub_topic": "Allah has the power to do all",
+        "reference": "46:34, 2:107, 2:285, 3:27, 3:30, 3:166, 3:190, 4:134, 6:18, 6:38, 6:66, 16:71, 17:100, 22:7, 22:40, 23:19, 23:96, 25:55, 30:55, 33:28, 36:82, 42:30, 42:51, 60:8, 65:13, 66:9, 70:41, 75:5, 75:41, 86:9"
+      }
+    ]
+  },
+  {
+    "id": 14936,
+    "topic": "Qarun",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Korah",
+    "sub_topics": []
+  },
+  {
+    "id": 14906,
+    "topic": "Qiblah",
+    "sub_topic": "",
+    "chapter": 10,
+    "verse_start": 88,
+    "verse_end": null,
+    "see": null,
+    "note": "See Ka‘bah",
+    "sub_topics": []
+  },
+  {
+    "id": 14902,
+    "topic": "Qira’at",
+    "sub_topic": "recitation",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Recitation",
+    "sub_topics": []
+  },
+  {
+    "id": 14903,
+    "topic": "Qisas",
+    "sub_topic": "blood-money",
+    "chapter": 2,
+    "verse_start": 179,
+    "verse_end": 180,
+    "see": null,
+    "note": "See also Retaliation",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:195, 5:46"
+      }
+    ]
+  },
+  {
+    "id": 14907,
+    "topic": "Qital",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See War",
+    "sub_topics": []
+  },
+  {
+    "id": 14908,
+    "topic": "Qiyamah",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Day of Judgement",
+    "sub_topics": [
+      {
+        "sub_topic": "belief in",
+        "reference": "2:5, 2:9, 2:63, 2:127, 2:178, 2:229, 2:233, 2:265, 3:115, 4:39, 4:40, 4:60, 4:137, 4:163, 5:70, 9:18, 9:19, 9:29, 9:44, 9:45, 9:99, 24:3, 29:37, 33:22, 58:23, 60:7, 65:3"
+      }
+    ]
+  },
+  {
+    "id": 14960,
+    "topic": "Qur’an",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Abbreviations, Abrogation: Ambiguous, Prayers of, Parable of, Prophecies of",
+    "sub_topics": [
+      {
+        "sub_topic": "abrogation refuted",
+        "reference": "2:107, 3:8, 4:83, 11:2, 16:102, 18:28, 39:24, 87:7-8"
+      },
+      {
+        "sub_topic": "and -Jinn",
+        "reference": "72:2, 46:30-31"
+      },
+      {
+        "sub_topic": "and knowledge",
+        "reference": "17:87, 2:186, 3:8, 4:167, 7:53, 15:22, 17:108"
+      },
+      {
+        "sub_topic": "and previous scriptures",
+        "reference": "2:36, 2:42, 2:90, 2:92, 2:98, 2:102, 2:244, 3:4, 3:82, 4:48, 5:49, 6:115, 10:38, 12:112, 18:3, 26:193-198, 35:32, 46:13, 46:31"
+      },
+      {
+        "sub_topic": "angels bear witness",
+        "reference": "4:167"
+      },
+      {
+        "sub_topic": "apathy towards",
+        "reference": "25:31"
+      },
+      {
+        "sub_topic": "arrangement of",
+        "reference": "17:107"
+      },
+      {
+        "sub_topic": "characteristics of",
+        "reference": "87:9, 10:58, 12:2-3, 15:22, 17:90, 18:2-3, 21:25, 26:3, 29:50, 43:45, 54:18, 56:80, 80:14-17, 98:4"
+      },
+      {
+        "sub_topic": "collection, protection of",
+        "reference": "75:17-18, 4:83, 5:49, 15:2, 15:10, 15:18-19, 26:194, 26:211-213, 27:2, 37:11, 56:78-79, 85:22-23, 87:7-9"
+      },
+      {
+        "sub_topic": "comprehensible",
+        "reference": "54:18, 19:98, 39:28, 44:59, 54:23, 54:33, 54:41"
+      },
+      {
+        "sub_topic": "disappearance of",
+        "reference": "17:87"
+      },
+      {
+        "sub_topic": "eminence of",
+        "reference": "38:2"
+      },
+      {
+        "sub_topic": "enjoins reflection",
+        "reference": "See Reflect"
+      },
+      {
+        "sub_topic": "excellence, perfection of, -Ummul-Kitab",
+        "reference": "2:24, 2:3, 5:4, 6:156, 8:32, 10:38-40, 11:2, 11:14-15, 13:32, 14:25-26, 15:2, 17:89, 18:110, 21:11, 21:25, 25:2, 27:2, 29:52, 38:2, 38:30, 39:24, 43:5, 52:34-35, 59:22, 73:6"
+      },
+      {
+        "sub_topic": "from Allah",
+        "reference": "4:114, 2:24, 2:90, 2:232, 4:137, 4:141, 4:175, 7:197, 10:38, 12:4, 14:2, 16:45, 16:90, 17:71, 20:3, 20:5, 25:2, 25:5-7, 25:34, 26:193, 26:212-214, 27:7, 29:48, 32:3-4, 39:2, 42:8, 42:30, 42:33, 44:4, 45:3, 46:3, 53:5-6, 56:78-81, 57:10, 69:39-53, 76:24, 98:3"
+      },
+      {
+        "sub_topic": "healing &amp; guidance",
+        "reference": "10:58, 2:3, 2:186, 6:156, 7:3, 7:53, 7:57, 12:112, 16:103, 17:42, 17:83, 27:3, 39:24, 39:42, 42:18, 42:53, 45:21, 50:46"
+      },
+      {
+        "sub_topic": "objections to",
+        "reference": "25:33-34, 3:8, 4:83, 6:26, 8:32, 10:40, 11:2, 16:25, 16:104, 17:94, 18:110, 21:3-6, 23:84, 25:5-6, 27:7, 27:69, 34:44, 41:27, 43:31-32, 46:8, 46:18, 52:34, 68:16, 74:25, 83:14, 87:6"
+      },
+      {
+        "sub_topic": "oft-repeated verses",
+        "reference": "15:88"
+      },
+      {
+        "sub_topic": "prayer for knowledge",
+        "reference": "20:115"
+      },
+      {
+        "sub_topic": "previous teachings",
+        "reference": "3:4, 5:49, 6:92, 18:83, 80:14, 98:4"
+      },
+      {
+        "sub_topic": "prostration verses",
+        "reference": "See Prostration"
+      },
+      {
+        "sub_topic": "recitation of",
+        "reference": "7:205, 16:99-101, 17:46, 17:79, 17:107, 18:28, 27:93, 29:46, 43:4, 73:5, 73:21, 96:4"
+      },
+      {
+        "sub_topic": "repeatedly explains",
+        "reference": "17:90, 18:55, 20:114, 25:51, 30:59, 39:28"
+      },
+      {
+        "sub_topic": "repetition in",
+        "reference": "17:42, 46:28"
+      },
+      {
+        "sub_topic": "revelation of",
+        "reference": "2:186, 12:3, 13:38, 16:104, 17:107, 20:5, 20:114, 25:33-34, 26:194-197, 39:29, 41:4, 42:8, 43:4, 44:4-5, 46:13, 76:24, 97:2"
+      },
+      {
+        "sub_topic": "sign of mercy",
+        "reference": "29:52"
+      },
+      {
+        "sub_topic": "true understanding of",
+        "reference": "56:78-81, 3:8-9"
+      },
+      {
+        "sub_topic": "truth, scientific facts, history",
+        "reference": "51:8-9, 10:93, 13:4, 16:14, 16:16-17, 16:79, 16:85, 20:54, 21:31-32, 24:25, 41:43, 42:30"
+      },
+      {
+        "sub_topic": "truth, wisdom &amp; balance in",
+        "reference": "10:2, 3:4, 3:61, 3:109, 4:106, 4:167, 4:171, 5:49, 6:92-93, 6:115, 13:2, 17:82, 17:106, 18:110, 21:11, 23:63, 25:2, 25:34, 31:3-4, 36:3, 38:2, 42:18"
+      },
+      {
+        "sub_topic": "universality of",
+        "reference": "25:2, 2:22, 26:193, 34:29, 38:30, 81:28"
+      }
+    ]
+  },
+  {
+    "id": 14937,
+    "topic": "Quraysh",
+    "sub_topic": "",
+    "chapter": 106,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:74, 2:130, 2:218, 3:126, 8:31, 12:93, 21:41, 23:95, 26:215, 27:49, 30:5, 33:10, 48:2, 48:12, 53:21, 54:2, 54:10, 59:3, 59:15, 60:2, 80:2, 106:5"
+      }
+    ]
+  }
+]

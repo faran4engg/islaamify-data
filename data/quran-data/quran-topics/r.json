@@ -1,0 +1,859 @@
+[
+  {
+    "id": 15232,
+    "topic": "Rabwah",
+    "sub_topic": "",
+    "chapter": 23,
+    "verse_start": 51,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:266"
+      }
+    ]
+  },
+  {
+    "id": 15234,
+    "topic": "Raiment",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Garments",
+    "sub_topics": []
+  },
+  {
+    "id": 15235,
+    "topic": "Rain",
+    "sub_topic": "",
+    "chapter": 4,
+    "verse_start": 103,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:20, 2:266, 4:103, 6:7, 7:85, 8:33, 11:53, 11:83-84, 15:75, 20:54, 24:44, 25:41, 26:174, 27:59, 30:49, 46:25"
+      }
+    ]
+  },
+  {
+    "id": 15252,
+    "topic": "Raja‘",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "return",
+        "reference": "7:151, 2:197, 2:231, 3:73, 7:169, 7:175, 9:83, 9:94, 9:122, 12:47, 12:64, 20:41, 20:87, 20:92, 21:14, 21:59, 21:65, 27:29, 36:51, 31:35, 37:69, 42:29, 57:21, 63:9, 71:12"
+      },
+      {
+        "sub_topic": "return to Allah",
+        "reference": "96:9, 2:47, 2:157, 2:211, 2:246, 2:282, 3:56, 3:84, 3:110, 5:49, 5:106, 6:61, 6:109, 6:165, 10:5, 10:24, 10:47, 10:71, 11:5, 11:35, 19:41, 21:36, 21:94, 22:77, 24:65, 29:9, 31:16, 31:24, 39:8, 41:51, 57:6, 89:29"
+      },
+      {
+        "sub_topic": "return to life",
+        "reference": "21:96, 23:100-101, 36:32, 36:51, 86:9"
+      }
+    ]
+  },
+  {
+    "id": 15315,
+    "topic": "Raka‘",
+    "sub_topic": "Bow down",
+    "chapter": 2,
+    "verse_start": 44,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:126, 3:44, 5:56, 9:112, 22:27, 22:78, 48:30, 77:49"
+      }
+    ]
+  },
+  {
+    "id": 15324,
+    "topic": "Ramadan",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Fasting",
+    "sub_topics": []
+  },
+  {
+    "id": 15325,
+    "topic": "Rameses II",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 50,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Merneptah, Pharaoh",
+    "sub_topics": []
+  },
+  {
+    "id": 15326,
+    "topic": "Rank",
+    "sub_topic": "-Darajah",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "according to deeds",
+        "reference": "3:164, 4:97, 6:84, 6:133, 6:166, 8:5, 12:77, 17:22, 20:76, 43:33, 46:20, 58:12"
+      },
+      {
+        "sub_topic": "among Prophets",
+        "reference": "2:254"
+      },
+      {
+        "sub_topic": "of men over women",
+        "reference": "2:229, 4:35"
+      },
+      {
+        "sub_topic": "of those who strive",
+        "reference": "9:20, 57:11"
+      }
+    ]
+  },
+  {
+    "id": 15344,
+    "topic": "Ransom",
+    "sub_topic": "-Fidyah",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Atonement: by expiation",
+    "sub_topics": []
+  },
+  {
+    "id": 15345,
+    "topic": "Read",
+    "sub_topic": "-Iqra’,- proclaim",
+    "chapter": 96,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Recitation",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "17:15, 96:4"
+      }
+    ]
+  },
+  {
+    "id": 15348,
+    "topic": "Rebellion",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Transgression",
+    "sub_topics": []
+  },
+  {
+    "id": 15349,
+    "topic": "Recitation",
+    "sub_topic": "-Tilawat",
+    "chapter": 20,
+    "verse_start": 115,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "75:19"
+      }
+    ]
+  },
+  {
+    "id": 15351,
+    "topic": "Reckoning",
+    "sub_topic": "-Hisab",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "bestows without",
+        "reference": "39:11, 2:213, 3:28, 3:38, 24:39, 38:40, 40:41"
+      },
+      {
+        "sub_topic": "count, accountability",
+        "reference": "17:13, 6:53, 6:70, 10:6, 13:19, 13:22, 13:41, 23:118, 24:40, 26:114, 65:9, 69:21, 69:27, 78:37, 84:9, 88:26-27"
+      }
+    ]
+  },
+  {
+    "id": 15375,
+    "topic": "Recompense",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Reward",
+    "sub_topics": []
+  },
+  {
+    "id": 15376,
+    "topic": "Reconciliation",
+    "sub_topic": "",
+    "chapter": 4,
+    "verse_start": 36,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:229, 4:129, 49:11, 65:2"
+      }
+    ]
+  },
+  {
+    "id": 15381,
+    "topic": "Reflect",
+    "sub_topic": "ponder, -Tafakkur",
+    "chapter": 30,
+    "verse_start": 9,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:220, 2:267, 4:83, 6:51, 7:177, 10:25, 13:4, 16:12, 16:45, 16:70, 27:63, 28:44, 30:22, 32:5, 34:47, 38:30, 39:43, 40:59, 45:14, 47:25, 51:50, 56:63, 59:22"
+      }
+    ]
+  },
+  {
+    "id": 15405,
+    "topic": "Reformers",
+    "sub_topic": "advent of",
+    "chapter": 97,
+    "verse_start": 4,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "15:19, 19:52, 25:48, 28:60, 30:47, 30:57, 36:52, 45:6, 56:76, 72:10, 77:12, 81:3, 81:19, 85:2, 91:3, 92:2-3"
+      }
+    ]
+  },
+  {
+    "id": 15423,
+    "topic": "Refuge",
+    "sub_topic": "-A‘udh",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Allah: seeking refuge",
+    "sub_topics": [
+      {
+        "sub_topic": "on earth",
+        "reference": "4:101, 9:57, 11:44, 18:11, 18:17, 50:37"
+      }
+    ]
+  },
+  {
+    "id": 15430,
+    "topic": "Relatives",
+    "sub_topic": "-Aqrabun",
+    "chapter": 4,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:84, 2:178, 2:181, 2:216, 4:9, 4:12, 4:24, 4:37, 13:24, 16:91, 17:27, 30:39, 33:7, 40:9, 111:2"
+      }
+    ]
+  },
+  {
+    "id": 15446,
+    "topic": "Religion",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "Allah will judge between",
+        "reference": "22:18"
+      },
+      {
+        "sub_topic": "corruption in",
+        "reference": "9:34"
+      },
+      {
+        "sub_topic": "dissention in, sects",
+        "reference": "30:31, 6:160, 30:33"
+      },
+      {
+        "sub_topic": "essentials of",
+        "reference": "30:31, 12:41, 23:53, 87:19-20, 98:6"
+      },
+      {
+        "sub_topic": "interfaith harmony",
+        "reference": "3:65, 2:115, 10:42"
+      },
+      {
+        "sub_topic": "no compulsion in",
+        "reference": "See Compulsion in Faith"
+      },
+      {
+        "sub_topic": "not a sport, pastime",
+        "reference": "7:52, 5:58, 6:71"
+      },
+      {
+        "sub_topic": "prescribed Islam as the true",
+        "reference": "3:20, 2:133, 2:194, 3:74, 3:86, 4:126, 5:4, 7:30, 8:40, 9:33, 42:14, 48:29, 61:10"
+      },
+      {
+        "sub_topic": "sincerity in",
+        "reference": "39:15, 9:11, 10:23, 29:66, 31:33, 39:3, 39:12, 40:15, 40:66, 98:6"
+      }
+    ]
+  },
+  {
+    "id": 15487,
+    "topic": "Remember",
+    "sub_topic": "Allah",
+    "chapter": 2,
+    "verse_start": 153,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:199, 2:201, 2:204, 2:232, 2:240, 3:42, 3:192, 4:104, 5:8, 5:12, 5:21, 7:70, 7:75, 7:206, 8:46, 13:29, 18:25, 20:15, 20:43, 24:38, 26:228, 29:46, 33:22, 33:36, 33:42, 35:4, 39:24, 43:14, 57:17, 62:11, 63:10, 73:9, 76:26, 87:16"
+      },
+      {
+        "sub_topic": "those who forget to",
+        "reference": "26:6, 18:29, 18:102, 20:125, 23:111, 25:19, 25:30, 39:23, 43:37, 53:30, 58:20, 72:18"
+      }
+    ]
+  },
+  {
+    "id": 15534,
+    "topic": "Repentance",
+    "sub_topic": "-Taubah",
+    "chapter": 9,
+    "verse_start": 112,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "acceptance of",
+        "reference": "4:18-19, 2:161, 9:5, 9:104, 16:120, 42:26"
+      },
+      {
+        "sub_topic": "door of always open",
+        "reference": "28:68, 4:111, 5:40, 6:55, 25:71-72, 39:54"
+      },
+      {
+        "sub_topic": "meaning of",
+        "reference": "3:90, 11:91, 25:71-72, 66:9"
+      },
+      {
+        "sub_topic": "of apostates",
+        "reference": "3:91"
+      }
+    ]
+  },
+  {
+    "id": 15552,
+    "topic": "Requital",
+    "sub_topic": "good &amp; evil",
+    "chapter": 6,
+    "verse_start": 161,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:262, 4:41, 10:27-28"
+      }
+    ]
+  },
+  {
+    "id": 15556,
+    "topic": "Respite",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "only for fixed time",
+        "reference": "63:12, 14:11, 71:5"
+      },
+      {
+        "sub_topic": "opponent of Prophets",
+        "reference": "7:196, 10:72, 11:56, 13:33, 22:45"
+      },
+      {
+        "sub_topic": "to debtors",
+        "reference": "2:281"
+      },
+      {
+        "sub_topic": "to disbelievers",
+        "reference": "9:2, 2:163, 3:179, 6:9, 6:13, 10:23-24, 21:41, 22:45, 32:30, 86:18"
+      },
+      {
+        "sub_topic": "to hypocrites",
+        "reference": "2:16"
+      },
+      {
+        "sub_topic": "to mend ways",
+        "reference": "42:6"
+      },
+      {
+        "sub_topic": "to Satan",
+        "reference": "7:15-16, 15:37, 17:63, 38:80-81"
+      },
+      {
+        "sub_topic": "to wrong-doers",
+        "reference": "7:168, 14:43, 14:45, 15:9, 16:62, 35:46"
+      }
+    ]
+  },
+  {
+    "id": 15588,
+    "topic": "Resurrection",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Yaumud-Din, Afterlife",
+    "sub_topics": [
+      {
+        "sub_topic": "after death",
+        "reference": "23:116, 2:48-49, 5:110, 6:37, 17:50-52, 22:8, 39:68-71, 50:12, 50:21-24, 71:19, 78:39-40"
+      },
+      {
+        "sub_topic": "day of",
+        "reference": "4:88, 2:213, 3:186, 11:104, 17:52, 17:98, 19:96, 20:16, 20:101-110, 21:48, 22:8, 22:10-11, 32:26, 39:48, 40:60, 68:43-44, 70:43-45, 75:2-14, 78:3-4, 78:18-21, 80:34-43, 88:2-17"
+      },
+      {
+        "sub_topic": "spiritual",
+        "reference": "6:37, 2:57, 2:74, 2:261, 5:111, 7:15, 7:58, 8:25, 22:6, 30:51, 41:40, 56:2-7, 69:14-17, 75:41"
+      }
+    ]
+  },
+  {
+    "id": 15636,
+    "topic": "Retaliation",
+    "sub_topic": "-Qisas",
+    "chapter": 2,
+    "verse_start": 179,
+    "verse_end": 180,
+    "see": null,
+    "note": "See also Qisas",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:195, 5:46, 22:61"
+      }
+    ]
+  },
+  {
+    "id": 15640,
+    "topic": "Retribution",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "and Allah",
+        "reference": "7:168, 2:197, 2:212, 3:5, 5:96, 7:127, 8:14, 13:7, 14:48, 32:23, 39:38, 40:6, 43:26, 44:17, 59:5, 59:8"
+      },
+      {
+        "sub_topic": "and man",
+        "reference": "5:39, 17:34"
+      }
+    ]
+  },
+  {
+    "id": 15659,
+    "topic": "Revelation",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "16:3, 40:16"
+      },
+      {
+        "sub_topic": "and Angels",
+        "reference": "2:98, 19:10"
+      },
+      {
+        "sub_topic": "and false claimants",
+        "reference": "20:62, 17:76, 39:33, 69:45-48"
+      },
+      {
+        "sub_topic": "to Holy Prophet(sa)",
+        "reference": "3:45, 6:20, 6:51, 7:204, 10:3, 11:13, 12:4, 13:31, 16:124, 18:28, 20:115, 21:46, 29:46, 33:3, 34:51, 35:32, 38:71, 39:66, 41:7, 42:4, 42:53, 43:44, 46:10, 53:5, 72:2"
+      },
+      {
+        "sub_topic": "to non-Prophets",
+        "reference": "16:69-70, 19:12, 20:39-40, 28:8, 41:13, 41:31, 97:5"
+      },
+      {
+        "sub_topic": "to Prophets(as)",
+        "reference": "42:52, 2:54, 3:180, 4:164-165, 5:49, 8:13, 11:37, 12:16, 12:110, 14:5, 16:3, 16:44, 20:14, 26:53, 36:5-6, 42:4, 53:5-6"
+      }
+    ]
+  },
+  {
+    "id": 15717,
+    "topic": "Revenge",
+    "sub_topic": "-Intaqam, retribution",
+    "chapter": 43,
+    "verse_start": 56,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:4-5, 5:96, 7:137, 14:48, 15:80, 30:48, 32:23, 39:37-38, 43:26, 43:42, 44:17"
+      }
+    ]
+  },
+  {
+    "id": 15729,
+    "topic": "Revert",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 276,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "5:96, 36:40"
+      }
+    ]
+  },
+  {
+    "id": 15732,
+    "topic": "Reward",
+    "sub_topic": "-Jaza’, Ajr",
+    "chapter": 28,
+    "verse_start": 85,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:41, 4:115, 4:125, 4:135, 4:163, 5:10, 6:161, 8:29, 10:73, 11:109, 12:57, 17:10, 26:110, 32:20-23"
+      }
+    ]
+  },
+  {
+    "id": 15747,
+    "topic": "Riba",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Interest",
+    "sub_topics": []
+  },
+  {
+    "id": 15748,
+    "topic": "Ridwan",
+    "sub_topic": "Allah’s pleasure",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:16, 3:163, 3:175, 5:3, 9:21, 9:72, 9:109, 47:29, 57:21, 57:28, 59:9"
+      }
+    ]
+  },
+  {
+    "id": 15760,
+    "topic": "Ridwan",
+    "sub_topic": "Bai‘atur-",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Hudaibiyah",
+    "sub_topics": []
+  },
+  {
+    "id": 15761,
+    "topic": "Right hand",
+    "sub_topic": "",
+    "chapter": 17,
+    "verse_start": 72,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "29:49, 37:94, 39:68, 56:9, 56:28, 56:39, 56:91-92, 69:20, 69:46, 84:8"
+      },
+      {
+        "sub_topic": "-ma malakat…",
+        "reference": "4:4, 4:25-26, 4:37, 23:7, 24:32, 24:34, 24:59, 30:29, 33:51, 33:56, 70:31"
+      }
+    ]
+  },
+  {
+    "id": 15783,
+    "topic": "Righteous",
+    "sub_topic": "-Salihin",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "Allah is friend of",
+        "reference": "45:20, 3:77, 9:4, 9:7"
+      },
+      {
+        "sub_topic": "description of",
+        "reference": "2:178, 2:4-5, 3:115, 3:180, 16:129, 20:83, 22:33, 39:34, 51:16-19"
+      },
+      {
+        "sub_topic": "duty of",
+        "reference": "22:38, 6:70, 58:10"
+      },
+      {
+        "sub_topic": "example of",
+        "reference": "49:14, 2:131, 3:40, 3:47, 3:115, 4:70, 4:157, 5:9, 6:70, 6:85-87, 12:37, 16:123, 18:73, 21:73, 21:76, 21:87, 24:24, 28:28, 29:28, 33:33, 37:113, 41:34, 48:27, 66:13, 103:4"
+      },
+      {
+        "sub_topic": "prayers of",
+        "reference": "3:194-195, 5:85, 12:102, 25:75, 26:84, 32:13, 35:38, 37:101, 46:16, 63:11"
+      },
+      {
+        "sub_topic": "rewarded",
+        "reference": "13:36, 3:126, 3:134-135, 3:173, 3:180, 7:157, 7:170-171, 7:197, 9:4, 9:123, 11:116, 15:46, 16:32, 19:86, 22:24, 25:16, 25:71, 26:91, 29:8, 29:10, 29:28, 29:59, 30:16, 30:45-46, 34:5, 35:8, 38:50, 39:62, 39:74-75, 41:9, 41:19, 43:36, 44:52-57, 45:20, 45:31, 47:3, 47:16, 47:18, 47:37, 49:4, 50:32, 51:16, 52:18, 54:55, 64:10, 65:12, 68:51, 77:42, 78:32-37, 83:23, 98:8"
+      },
+      {
+        "sub_topic": "unrighteous",
+        "reference": "11:47, 2:104, 2:190, 5:66, 7:97, 23:101, 49:7, 66:11"
+      }
+    ]
+  },
+  {
+    "id": 15894,
+    "topic": "Rija’",
+    "sub_topic": "",
+    "chapter": 10,
+    "verse_start": 8,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "hope, fear",
+        "reference": "17:58, 4:105, 29:37, 33:52, 35:30, 45:15, 71:14, 78:28"
+      },
+      {
+        "sub_topic": "hopes to meet Allah",
+        "reference": "33:22, 2:219, 4:105, 10:8, 10:12, 10:16, 11:63, 18:111, 25:22, 28:87, 29:6, 39:10, 60:7, 71:14"
+      },
+      {
+        "sub_topic": "postpone",
+        "reference": "9:106, 7:112, 25:41, 33:52"
+      }
+    ]
+  },
+  {
+    "id": 15921,
+    "topic": "River",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "Moses thrown into",
+        "reference": "20:40, 28:8"
+      },
+      {
+        "sub_topic": "of Paradise",
+        "reference": "22:24, 3:137, 7:44, 9:72, 47:16"
+      },
+      {
+        "sub_topic": "on earth",
+        "reference": "27:62, 13:4, 14:33, 16:16, 71:13, 81:7"
+      }
+    ]
+  },
+  {
+    "id": 15935,
+    "topic": "Rod",
+    "sub_topic": "-‘Asa",
+    "chapter": 7,
+    "verse_start": 108,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:61, 7:118, 7:161, 8:18, 17:102, 20:19-22, 20:70, 20:78, 26:33, 26:46, 26:64, 27:11, 28:32"
+      }
+    ]
+  },
+  {
+    "id": 15949,
+    "topic": "Romans",
+    "sub_topic": "",
+    "chapter": 30,
+    "verse_start": 3,
+    "verse_end": 5,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 15950,
+    "topic": "Rope",
+    "sub_topic": "-Habl",
+    "chapter": 3,
+    "verse_start": 104,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:113, 7:41, 22:16, 50:17, 111:5, 111:6"
+      }
+    ]
+  },
+  {
+    "id": 15957,
+    "topic": "Rows",
+    "sub_topic": "-Saff",
+    "chapter": 61,
+    "verse_start": 5,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "18:49, 20:65, 37:2, 78:39, 89:23"
+      }
+    ]
+  },
+  {
+    "id": 15963,
+    "topic": "Ruh",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Soul",
+    "sub_topics": []
+  },
+  {
+    "id": 15964,
+    "topic": "Ruhul-Amin",
+    "sub_topic": "",
+    "chapter": 26,
+    "verse_start": 194,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Gabriel",
+    "sub_topics": []
+  },
+  {
+    "id": 15965,
+    "topic": "Ruhul-Qudus",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 88,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:254, 5:111, 16:103"
+      }
+    ]
+  },
+  {
+    "id": 15969,
+    "topic": "Rumours",
+    "sub_topic": "",
+    "chapter": 49,
+    "verse_start": 7,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:84"
+      }
+    ]
+  }
+]

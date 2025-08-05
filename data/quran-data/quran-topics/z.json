@@ -1,0 +1,146 @@
+[
+  {
+    "id": 18961,
+    "topic": "Zabur",
+    "sub_topic": "Psalms, scriptures",
+    "chapter": 3,
+    "verse_start": 185,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:164, 5:79, 16:45, 21:106, 26:197, 27:34"
+      }
+    ]
+  },
+  {
+    "id": 18968,
+    "topic": "Zachariah(as)",
+    "sub_topic": "",
+    "chapter": 19,
+    "verse_start": 3,
+    "verse_end": 12,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:38-42, 6:86, 21:90-91"
+      }
+    ]
+  },
+  {
+    "id": 18972,
+    "topic": "Zaid-Zainab(ra)",
+    "sub_topic": "",
+    "chapter": 33,
+    "verse_start": 37,
+    "verse_end": 39,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "33:51"
+      }
+    ]
+  },
+  {
+    "id": 18974,
+    "topic": "Zakat",
+    "sub_topic": "",
+    "chapter": 9,
+    "verse_start": 60,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Alms",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:44, 2:84, 2:111, 2:178, 2:278, 4:163, 5:13, 5:56, 7:157, 9:11, 9:18, 9:71, 19:32, 19:56, 21:74, 22:42, 22:79, 23:2-5, 24:38, 24:57, 27:4, 30:40, 31:5, 33:34, 41:8, 58:14, 73:21, 98:6"
+      },
+      {
+        "sub_topic": "pure, pious",
+        "reference": "19:14, 18:82"
+      }
+    ]
+  },
+  {
+    "id": 19005,
+    "topic": "Zaqqum",
+    "sub_topic": "",
+    "chapter": 37,
+    "verse_start": 63,
+    "verse_end": 67,
+    "see": null,
+    "note": "See also Tree",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "14:27, 44:44-5, 56:53-54"
+      }
+    ]
+  },
+  {
+    "id": 19009,
+    "topic": "Zauj",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Spouse",
+    "sub_topics": []
+  },
+  {
+    "id": 19010,
+    "topic": "Zihar",
+    "sub_topic": "",
+    "chapter": 58,
+    "verse_start": 2,
+    "verse_end": 6,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "33:5"
+      }
+    ]
+  },
+  {
+    "id": 19012,
+    "topic": "Zina",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Adultery",
+    "sub_topics": []
+  },
+  {
+    "id": 19013,
+    "topic": "Zinah",
+    "sub_topic": "beauty",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Adornment",
+    "sub_topics": []
+  },
+  {
+    "id": 19014,
+    "topic": "Zoroastrianism",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  }
+]

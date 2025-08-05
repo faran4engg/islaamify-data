@@ -1,0 +1,994 @@
+[
+  {
+    "id": 8274,
+    "topic": "Habil and Qabil",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Abel",
+    "sub_topics": []
+  },
+  {
+    "id": 8275,
+    "topic": "Hablullah",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Rope",
+    "sub_topics": []
+  },
+  {
+    "id": 8276,
+    "topic": "Hadid",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Iron",
+    "sub_topics": []
+  },
+  {
+    "id": 8277,
+    "topic": "Hadith",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "-bismillah",
+        "reference": "1:1"
+      },
+      {
+        "sub_topic": "-Shaitan called -Harith in",
+        "reference": "7:23"
+      },
+      {
+        "sub_topic": "blessings of Paradise",
+        "reference": "32:18, 2:26"
+      },
+      {
+        "sub_topic": "concept of Paradise",
+        "reference": "57:22"
+      },
+      {
+        "sub_topic": "creation of -Dajjal",
+        "reference": "40:58"
+      },
+      {
+        "sub_topic": "farewell pilgrimage",
+        "reference": "49:14"
+      },
+      {
+        "sub_topic": "for all mankind",
+        "reference": "14:5"
+      },
+      {
+        "sub_topic": "hell, not forever",
+        "reference": "11:109"
+      },
+      {
+        "sub_topic": "Islamic Century",
+        "reference": "32:6"
+      },
+      {
+        "sub_topic": "meaning of -Manna",
+        "reference": "2:58"
+      },
+      {
+        "sub_topic": "misconceptions about",
+        "reference": "24:3, 19:72"
+      },
+      {
+        "sub_topic": "modes of transport",
+        "reference": "81:5"
+      },
+      {
+        "sub_topic": "Moses’ -‘Abd",
+        "reference": "18:66, 7:144, 46:11"
+      },
+      {
+        "sub_topic": "oft-repeated verses",
+        "reference": "15:88"
+      },
+      {
+        "sub_topic": "Pleiades",
+        "reference": "47:39, 53:2, 62:4"
+      },
+      {
+        "sub_topic": "power of Christianity",
+        "reference": "18:41"
+      },
+      {
+        "sub_topic": "prayer for victory",
+        "reference": "54:46"
+      },
+      {
+        "sub_topic": "word, discourse, story",
+        "reference": "4:43, 4:79, 4:88, 4:141, 6:69, 7:186, 18:7, 20:10, 31:7, 33:54, 39:24, 45:7, 51:25, 52:35, 53:60, 56:82, 68:45, 77:51, 79:16, 85:18, 88:2"
+      }
+    ]
+  },
+  {
+    "id": 8322,
+    "topic": "Hagar",
+    "sub_topic": "-Hagirah",
+    "chapter": 37,
+    "verse_start": 103,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:130, 2:143, 2:159"
+      }
+    ]
+  },
+  {
+    "id": 8326,
+    "topic": "Hajj",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Pilgrimage",
+    "sub_topics": []
+  },
+  {
+    "id": 8327,
+    "topic": "Hakam",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "Allah as",
+        "reference": "3:56, 4:142, 6:58, 6:115, 7:88, 7:187, 10:94, 10:110, 11:46, 12:81, 16:125, 21:113, 22:18, 22:57, 22:70, 24:52, 26:119, 34:27, 39:4, 39:24, 39:47, 40:35, 42:45, 45:18, 45:24, 60:11, 95:9"
+      },
+      {
+        "sub_topic": "Book, Qur’an as",
+        "reference": "2:214, 3:24, 4:106"
+      },
+      {
+        "sub_topic": "Holy Prophet(sa) as",
+        "reference": "4:66, 5:43, 42:16"
+      },
+      {
+        "sub_topic": "men as",
+        "reference": "4:59"
+      },
+      {
+        "sub_topic": "their own laws as",
+        "reference": "5:44-46, 5:48-50, 10:48, 38:23-27"
+      }
+    ]
+  },
+  {
+    "id": 8366,
+    "topic": "Halal",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Lawful",
+    "sub_topics": []
+  },
+  {
+    "id": 8373,
+    "topic": "Ham",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Bahirah",
+    "sub_topics": []
+  },
+  {
+    "id": 8368,
+    "topic": "Haman",
+    "sub_topic": "",
+    "chapter": 28,
+    "verse_start": 39,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "28:7, 28:9, 40:25, 40:37"
+      }
+    ]
+  },
+  {
+    "id": 8367,
+    "topic": "Hamra’ al-Asad",
+    "sub_topic": "",
+    "chapter": 3,
+    "verse_start": 173,
+    "verse_end": 175,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8374,
+    "topic": "Hanif",
+    "sub_topic": "",
+    "chapter": 4,
+    "verse_start": 126,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:136, 3:68, 3:96, 6:80, 6:162, 10:106, 16:124, 22:32, 30:31, 98:6"
+      }
+    ]
+  },
+  {
+    "id": 8408,
+    "topic": "Haram",
+    "sub_topic": "Forbidden",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Unlawful",
+    "sub_topics": []
+  },
+  {
+    "id": 8385,
+    "topic": "Haram",
+    "sub_topic": "Sacred",
+    "chapter": 2,
+    "verse_start": 150,
+    "verse_end": 151,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:145, 2:192, 2:195, 2:197, 2:199, 2:218, 5:3, 5:98, 8:35, 9:7, 9:19, 9:28, 9:36-37, 14:38, 17:2, 22:26, 22:31, 22:33, 22:37, 27:92, 48:26, 48:28"
+      }
+    ]
+  },
+  {
+    "id": 5785,
+    "topic": "Hard Day",
+    "sub_topic": "-Yaumun ‘Asir",
+    "chapter": 54,
+    "verse_start": 9,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "25:27, 74:10"
+      }
+    ]
+  },
+  {
+    "id": 8409,
+    "topic": "Harith",
+    "sub_topic": "",
+    "chapter": 7,
+    "verse_start": 23,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8411,
+    "topic": "Harun(as)",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Aaron",
+    "sub_topics": []
+  },
+  {
+    "id": 8410,
+    "topic": "Harut & Marut",
+    "sub_topic": "",
+    "chapter": 2,
+    "verse_start": 103,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8412,
+    "topic": "Hatib bin Abi Balt‘ah",
+    "sub_topic": "",
+    "chapter": 60,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8413,
+    "topic": "Havariyyun",
+    "sub_topic": "",
+    "chapter": 3,
+    "verse_start": 53,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "5:112-113, 61:15"
+      }
+    ]
+  },
+  {
+    "id": 8416,
+    "topic": "Healing",
+    "sub_topic": "",
+    "chapter": 10,
+    "verse_start": 58,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:50, 16:70, 17:83, 41:45"
+      }
+    ]
+  },
+  {
+    "id": 8421,
+    "topic": "Heart",
+    "sub_topic": "-Sadr, Fu’ad, Qalb",
+    "chapter": 53,
+    "verse_start": 12,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:30, 3:120, 7:44, 9:14, 10:58, 15:48, 17:37, 22:47, 25:33, 28:11, 29:50, 40:20, 100:10-11, 104:8, 114:6"
+      },
+      {
+        "sub_topic": "Allah expands ones",
+        "reference": "6:126, 7:3, 20:26, 94:2"
+      },
+      {
+        "sub_topic": "bestowed",
+        "reference": "16:79, 2:98, 23:79, 26:195, 32:10, 46:27, 67:24"
+      },
+      {
+        "sub_topic": "cast terror in their",
+        "reference": "3:152, 8:13, 33:27, 59:3"
+      },
+      {
+        "sub_topic": "diseased",
+        "reference": "2:11, 5:53, 8:50, 9:125, 22:54, 24:51, 33:13, 33:33, 33:61, 47:21, 47:30, 74:32"
+      },
+      {
+        "sub_topic": "fear in their",
+        "reference": "8:3, 22:36, 23:61, 33:11, 39:24, 40:19"
+      },
+      {
+        "sub_topic": "hardened",
+        "reference": "2:75, 3:160, 5:14, 6:44, 10:89, 39:23, 57:17"
+      },
+      {
+        "sub_topic": "love in their",
+        "reference": "3:104, 8:64, 9:60"
+      },
+      {
+        "sub_topic": "perverse",
+        "reference": "3:8-9, 9:117, 61:6, 66:5"
+      },
+      {
+        "sub_topic": "sealed, veiled, rusted, blind, straitened",
+        "reference": "18:58, 2:8, 2:89, 4:156, 6:26, 6:47, 6:111, 7:101-102, 7:180, 9:87, 9:93, 9:110, 10:75, 11:13, 14:44, 15:98, 16:109, 17:47, 18:29, 22:47, 23:64, 26:14, 30:60, 40:36, 41:6, 42:25, 45:24, 47:17, 47:25, 59:15, 63:4, 83:15"
+      },
+      {
+        "sub_topic": "strengthened",
+        "reference": "18:15, 8:12, 11:121, 28:11"
+      },
+      {
+        "sub_topic": "tranquility of, peace of",
+        "reference": "48:19, 2:249, 2:261, 3:127, 5:114, 8:11, 9:26, 9:40, 13:29, 16:107, 48:5, 48:27"
+      }
+    ]
+  },
+  {
+    "id": 8532,
+    "topic": "Heaven",
+    "sub_topic": "-Sama’",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:36, 21:17, 21:31, 22:66, 50:7, 51:8, 51:48, 55:88, 67:4, 78:20, 81:12"
+      },
+      {
+        "sub_topic": "adorned lower",
+        "reference": "15:17, 25:62, 37:7, 41:13, 50:7, 67:6, 85:2"
+      },
+      {
+        "sub_topic": "as a roof",
+        "reference": "21:33, 2:20, 2:23, 13:3, 22:66, 31:11, 40:65, 52:6, 78:13, 79:29, 88:19"
+      },
+      {
+        "sub_topic": "ascent to",
+        "reference": "2:37, 3:56, 3:145, 4:159, 17:2, 17:94, 40:38, 52:39, 53:10"
+      },
+      {
+        "sub_topic": "creation of",
+        "reference": "41:12-13, 2:30, 2:118, 2:165, 3:192, 6:2, 6:74, 7:55, 9:36, 10:4, 11:8, 14:20, 15:86, 16:4, 17:100, 21:17, 21:31, 25:60, 29:45, 30:23, 31:26, 32:5, 36:82, 39:6, 39:39, 40:58, 42:30, 43:10, 44:39, 45:23, 46:4, 46:34, 50:39, 51:48, 57:5, 65:13, 67:4, 71:16, 79:28"
+      },
+      {
+        "sub_topic": "descent from",
+        "reference": "5:113, 4:154, 5:115, 8:33, 36:29"
+      },
+      {
+        "sub_topic": "punishment from",
+        "reference": "8:33, 2:60, 6:9, 7:163, 7:188, 11:83, 15:18, 17:16, 17:93, 26:188, 29:35, 29:41, 34:10, 39:68, 52:45, 55:38, 67:6, 67:18, 70:9-10, 77:10, 82:2"
+      },
+      {
+        "sub_topic": "Sustenance, water, from",
+        "reference": "40:14, 2:23, 2:165, 6:7, 6:100, 8:12, 10:32, 11:53, 13:18, 14:33, 15:23, 16:11, 16:66, 23:19, 27:61, 27:65, 34:25, 51:23, 52:6"
+      }
+    ]
+  },
+  {
+    "id": 8655,
+    "topic": "Hebrew",
+    "sub_topic": "-Yahud",
+    "chapter": 3,
+    "verse_start": 78,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:114, 2:121, 5:19, 5:52, 5:65, 5:83, 9:30"
+      }
+    ]
+  },
+  {
+    "id": 8663,
+    "topic": "Hell",
+    "sub_topic": "-Jahannam",
+    "chapter": 19,
+    "verse_start": 69,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "19:72"
+      },
+      {
+        "sub_topic": "-Hawiyah",
+        "reference": "101:9-12"
+      },
+      {
+        "sub_topic": "-Hutamah",
+        "reference": "104:5-6"
+      },
+      {
+        "sub_topic": "-Jahim",
+        "reference": "2:120, 5:87"
+      },
+      {
+        "sub_topic": "-Laza",
+        "reference": "70:16-17, 92:15"
+      },
+      {
+        "sub_topic": "-Sa‘ir",
+        "reference": "4:11, 4:56, 17:98, 22:5, 25:12, 31:22, 33:65, 34:13, 42:8, 48:14, 67:6, 76:5, 84:13"
+      },
+      {
+        "sub_topic": "-Saqar",
+        "reference": "54:49, 74:27, 74:28, 74:43"
+      },
+      {
+        "sub_topic": "conditions in",
+        "reference": "17:98, 3:107, 3:182, 6:71, 8:51, 10:28, 11:107, 14:17, 14:51, 15:45, 16:30, 18:30, 18:101, 19:72, 21:40, 21:101, 22:20-23, 23:105, 25:35, 26:92, 27:91, 32:21, 37:63, 38:58, 39:61, 39:72-73, 40:72-73, 44:44-47, 44:49, 47:16, 54:49, 55:45, 56:43-45, 56:53-55, 56:94, 67:8, 67:28, 69:33, 69:37, 76:5, 78:25-26, 88:6-8, 102:7"
+      },
+      {
+        "sub_topic": "for disbelievers, hypocrites, idolaters",
+        "reference": "29:55, 2:25, 2:40, 2:127, 2:258, 3:11, 3:13, 3:132, 4:141, 4:146, 5:73, 8:37, 19:87, 25:12, 38:60, 41:20, 44:48, 67:7, 78:22, 79:37, 83:16-18, 88:5, 89:24, 98:7"
+      },
+      {
+        "sub_topic": "for disobedient",
+        "reference": "2:207, 3:163, 4:15, 4:56, 9:63, 10:8-9, 13:19, 14:29-30, 21:30, 21:99, 40:61, 40:71-73, 50:27, 72:24"
+      },
+      {
+        "sub_topic": "for Satan",
+        "reference": "38:86, 4:120-122, 7:19, 17:64, 19:69, 26:92-96, 36:64"
+      },
+      {
+        "sub_topic": "for those who disobey Allah, for evil-doers",
+        "reference": "10:28, 2:82, 2:276, 3:182, 4:11, 4:94, 4:116, 8:38, 11:17, 11:107, 13:26, 14:16-17, 16:30, 17:19, 19:87, 20:75, 21:99, 23:104-105, 27:91, 38:56-57, 39:61, 39:73, 40:44, 40:77, 43:75, 50:25-26, 54:48-49, 55:44, 71:26, 72:16, 82:15, 85:11, 92:15-16, 101:9-10, 104:3"
+      },
+      {
+        "sub_topic": "for those who reject or hide signs of Allah",
+        "reference": "2:40, 2:175, 4:57, 18:107, 40:71-73, 45:12, 45:35, 45:36, 57:20, 64:11, 73:12-14, 90:20-21"
+      },
+      {
+        "sub_topic": "fuel and fire of",
+        "reference": "2:25, 2:168, 3:11, 4:57, 5:38, 7:42, 14:51, 17:98, 18:30, 21:99, 25:12-13, 32:21, 39:17, 40:47, 66:7, 74:29-30, 74:27-30, 74:32, 77:33-34, 87:13, 88:4-5, 92:15, 101:11-12, 104:6-8, 111:4"
+      },
+      {
+        "sub_topic": "no escape from",
+        "reference": "20:75, 2:87, 3:92, 3:107, 25:15, 32:21, 35:37, 40:50, 87:14"
+      },
+      {
+        "sub_topic": "not eternal",
+        "reference": "2:40, 11:107-9, 21:48, 78:24"
+      },
+      {
+        "sub_topic": "wretched abode",
+        "reference": "13:19, 2:207, 14:17-18, 14:30, 15:44-45, 18:30, 25:13-14, 25:66-67, 48:7, 67:8, 74:27-30, 78:23, 78:25-26, 88:5"
+      }
+    ]
+  },
+  {
+    "id": 8875,
+    "topic": "Heraclius",
+    "sub_topic": "",
+    "chapter": 30,
+    "verse_start": 5,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8876,
+    "topic": "Hereafter",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Afterlife",
+    "sub_topics": []
+  },
+  {
+    "id": 8877,
+    "topic": "Hijab",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Purdah, Barrier",
+    "sub_topics": []
+  },
+  {
+    "id": 8878,
+    "topic": "Hijaz",
+    "sub_topic": "protection of",
+    "chapter": 9,
+    "verse_start": 3,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8879,
+    "topic": "Hijr",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See People of Al-Hijr",
+    "sub_topics": []
+  },
+  {
+    "id": 8880,
+    "topic": "Hijrah",
+    "sub_topic": "",
+    "chapter": 8,
+    "verse_start": 31,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8881,
+    "topic": "Hikmah",
+    "sub_topic": "wisdom",
+    "chapter": 2,
+    "verse_start": 130,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:252, 2:270, 3:49, 3:59, 3:80, 3:82, 3:165, 4:55, 4:114, 5:111, 6:74, 10:2, 14:20, 16:126, 17:40, 19:13, 21:75, 21:80, 26:84, 28:15, 31:3, 31:13, 33:35, 36:3, 38:21, 40:68, 43:5, 43:64, 44:5, 54:6, 62:3, 71:14"
+      }
+    ]
+  },
+  {
+    "id": 8914,
+    "topic": "Hilm",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Moral Traits: patience",
+    "sub_topics": []
+  },
+  {
+    "id": 8915,
+    "topic": "Hira",
+    "sub_topic": "cave of",
+    "chapter": 73,
+    "verse_start": 2,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8916,
+    "topic": "History of Islam",
+    "sub_topic": "",
+    "chapter": 30,
+    "verse_start": 3,
+    "verse_end": 5,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 8917,
+    "topic": "Hoarding",
+    "sub_topic": "",
+    "chapter": 104,
+    "verse_start": 3,
+    "verse_end": 5,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:158, 9:34-35, 10:59, 23:5, 28:77, 70:19, 89:21"
+      }
+    ]
+  },
+  {
+    "id": 8925,
+    "topic": "Holy Land",
+    "sub_topic": "",
+    "chapter": 7,
+    "verse_start": 138,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "5:22, 5:27, 7:130, 17:105, 21:106"
+      }
+    ]
+  },
+  {
+    "id": 8931,
+    "topic": "Homicide",
+    "sub_topic": "",
+    "chapter": 4,
+    "verse_start": 93,
+    "verse_end": 94,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "4:30, 5:33, 6:152, 17:34, 25:69, 40:29"
+      }
+    ]
+  },
+  {
+    "id": 8938,
+    "topic": "Homosexuality",
+    "sub_topic": "",
+    "chapter": 26,
+    "verse_start": 166,
+    "verse_end": 167,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "7:81-82, 11:80, 27:55-56"
+      }
+    ]
+  },
+  {
+    "id": 8942,
+    "topic": "Honey",
+    "sub_topic": "-‘Asl",
+    "chapter": 16,
+    "verse_start": 70,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:58, 47:16, 66:2"
+      }
+    ]
+  },
+  {
+    "id": 8946,
+    "topic": "Honour",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Dignity",
+    "sub_topics": [
+      {
+        "sub_topic": "of believers",
+        "reference": "49:14, 4:32, 4:140, 4:176, 8:5, 8:75, 10:3, 19:86, 22:51, 30:16, 57:19, 70:35-36, 89:16, 89:18"
+      },
+      {
+        "sub_topic": "of Holy Books",
+        "reference": "80:14, 21:25, 43:45"
+      },
+      {
+        "sub_topic": "of Holy Prophet(sa)",
+        "reference": "63:9, 7:158, 48:10, 68:53"
+      },
+      {
+        "sub_topic": "of man",
+        "reference": "17:71, 22:19, 43:71, 44:50"
+      },
+      {
+        "sub_topic": "of Prophets",
+        "reference": "3:46, 3:56, 12:22, 12:24, 12:105, 21:27"
+      },
+      {
+        "sub_topic": "of Satan",
+        "reference": "17:63"
+      }
+    ]
+  },
+  {
+    "id": 8979,
+    "topic": "Horses",
+    "sub_topic": "-Khail",
+    "chapter": 16,
+    "verse_start": 9,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "3:15, 3:201, 4:72, 9:41, 17:65, 27:18, 38:32-33, 59:7, 100:2"
+      }
+    ]
+  },
+  {
+    "id": 8989,
+    "topic": "Hour",
+    "sub_topic": "-Sa‘ah",
+    "chapter": 25,
+    "verse_start": 12,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "6:32, 6:41, 7:188, 12:108, 15:86, 16:78, 18:22, 20:16, 21:50, 22:2, 22:8, 22:56, 30:13, 30:56, 31:35, 33:64, 34:4, 40:60, 41:48, 41:51, 42:18-19, 43:62, 43:67, 43:86, 45:28, 45:33, 47:19, 54:2, 54:47, 79:43, 79:44"
+      },
+      {
+        "sub_topic": "appointed time",
+        "reference": "46:36, 7:35, 9:117, 10:46, 16:62, 30:56"
+      }
+    ]
+  },
+  {
+    "id": 9055,
+    "topic": "Hud-hud",
+    "sub_topic": "Hoopoe",
+    "chapter": 27,
+    "verse_start": 21,
+    "verse_end": 26,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 9032,
+    "topic": "Hud(as)",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "people punished",
+        "reference": "69:7-8, 7:73, 11:60, 41:14, 46:25-26, 51:42-43, 54:20-21"
+      },
+      {
+        "sub_topic": "Prophet of -‘Ad",
+        "reference": "7:66, 7:67-68, 11:51, 26:124-126, 46:22-24"
+      },
+      {
+        "sub_topic": "story of",
+        "reference": "11:51-61, 23:32-42, 26:124-140"
+      }
+    ]
+  },
+  {
+    "id": 9048,
+    "topic": "Hudaibiyah",
+    "sub_topic": "treaty of",
+    "chapter": 48,
+    "verse_start": 11,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:197, 48:2, 48:4-5, 48:19, 48:25-27, 60:2"
+      }
+    ]
+  },
+  {
+    "id": 9056,
+    "topic": "Hujjah",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 150,
+    "verse_end": null,
+    "see": null,
+    "note": "See also Arguments for",
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:151, 2:259, 4:166, 6:84, 42:17, 45:26"
+      }
+    ]
+  },
+  {
+    "id": 9063,
+    "topic": "Human Nature",
+    "sub_topic": "",
+    "chapter": 6,
+    "verse_start": 109,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "15:43, 30:31"
+      }
+    ]
+  },
+  {
+    "id": 9066,
+    "topic": "Humility",
+    "sub_topic": "",
+    "chapter": null,
+    "verse_start": null,
+    "verse_end": null,
+    "see": null,
+    "note": "See Moral Traits",
+    "sub_topics": []
+  },
+  {
+    "id": 9067,
+    "topic": "Hunain",
+    "sub_topic": "Battle of",
+    "chapter": 9,
+    "verse_start": 25,
+    "verse_end": null,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "9:2, 33:22"
+      }
+    ]
+  },
+  {
+    "id": 9070,
+    "topic": "Hunting",
+    "sub_topic": "",
+    "chapter": 5,
+    "verse_start": 96,
+    "verse_end": 97,
+    "see": null,
+    "note": null,
+    "sub_topics": []
+  },
+  {
+    "id": 9027,
+    "topic": "Hur",
+    "sub_topic": "",
+    "chapter": 55,
+    "verse_start": 73,
+    "verse_end": 75,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "44:55, 52:21, 56:23-24, 56:36-38"
+      }
+    ]
+  },
+  {
+    "id": 9071,
+    "topic": "Hypocrites",
+    "sub_topic": "-Munafiqin",
+    "chapter": 63,
+    "verse_start": 2,
+    "verse_end": 9,
+    "see": null,
+    "note": null,
+    "sub_topics": [
+      {
+        "sub_topic": "",
+        "reference": "2:9-21, 2:205-207, 4:64, 4:89, 4:139, 4:141, 4:143, 9:54, 9:64-69, 9:80, 9:84, 9:107-108, 33:2, 33:49, 37:8, 47:24, 57:14-16, 59:12-18"
+      },
+      {
+        "sub_topic": "avoided fighting",
+        "reference": "9:45-59, 3:155, 3:168, 48:16"
+      },
+      {
+        "sub_topic": "vile boast of",
+        "reference": "63:9"
+      },
+      {
+        "sub_topic": "wishful thinking of",
+        "reference": "48:13"
+      }
+    ]
+  }
+]
